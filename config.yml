@@ -1,12 +1,13 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
-theme: hugo-PaperMod
+title: David Gallay
+theme: PaperMod
 # taxonomies:
 #   category: categories
 #   tag: tags
 #   series: series
 params:
+  disableSpecial1stPost: true  # Do not treats first post differently
   ShowToc: true
   ShowCodeCopyButtons: true # Adds a copy button in code block to copy the code it contains
   # ShowPostNavLinks: true  # Adds a Previous / Next post suggestion under a single post
@@ -16,29 +17,29 @@ params:
   #   Title: Hi there wave
   #   Content: Can be Info, links, about...
 
-  # profileMode:
-  #     enabled: false
-  #     title: PaperMod
-  #     imageUrl: "#"
-  #     imageTitle: my image
-  #     # imageWidth: 120
-  #     # imageHeight: 120
-  #     buttons:
-  #         - name: Archives
-  #           url: archives
-  #         - name: Tags
-  #           url: tags
+  profileMode:
+      enabled: false
+      title: PaperMod
+      imageUrl: "#"
+      imageTitle: my image
+      # imageWidth: 120
+      # imageHeight: 120
+      buttons:
+          - name: Archives
+            url: archives
+          - name: Tags
+            url: tags
 
-  # homeInfoParams:
-  #     Title: "PaperMod"
-  #     Content: >
-  #         Welcome to demo of hugo's theme PaperMod.
+  homeInfoParams:
+      Title: "PaperMod"
+      Content: >
+          Welcome to demo of hugo's theme PaperMod.
 
-  #         - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+          - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
 
-  #         - Do give a 🌟 on Github !
+          - Do give a 🌟 on Github !
 
-  #         - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+          - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
 
   socialIcons: # optional
     - name: "github"
