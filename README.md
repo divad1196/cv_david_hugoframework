@@ -7,6 +7,13 @@
   ```
 
 
+
+## Custom configuration
+
+* `overview: true` on a page: display it on the home page
+
+
+
 ## Issues encountered
 
 #### Posts not showing on the first page

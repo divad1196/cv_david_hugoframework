@@ -10,7 +10,7 @@ params:
   disableSpecial1stPost: true  # Do not treats first post differently
   ShowToc: true
   ShowCodeCopyButtons: true # Adds a copy button in code block to copy the code it contains
-  # ShowPostNavLinks: true  # Adds a Previous / Next post suggestion under a single post
+  ShowPostNavLinks: true  # Adds a Previous / Next post suggestion under a single post
   ShowBreadCrumbs: true
   ShowShareButtons: true
   # homeInfoParams:
@@ -24,11 +24,11 @@ params:
       imageTitle: my image
       # imageWidth: 120
       # imageHeight: 120
-      buttons:
-          - name: Archives
-            url: archives
-          - name: Tags
-            url: tags
+      # buttons:
+      #     - name: Archives
+      #       url: archives
+      #     - name: Tags
+      #       url: tags
 
   homeInfoParams:
       Title: "PaperMod"
