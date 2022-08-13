@@ -10,3 +10,12 @@ weight: 50
 
 started
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+{{< chart id="basicChart" data=charts.example >}}
