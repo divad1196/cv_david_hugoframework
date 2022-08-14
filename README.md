@@ -23,16 +23,17 @@
 
   Nb: The data will be taken from the **Data folder**, in this case `data=charts.example` means there is a file under `data/charts/example.yml`
 
-  * Id: The id of the canvas, must be unique to use Chart.js
-
-  * data: The data to pass to the chart constructor
-
+  * Id (Optional): The id of the canvas, must be unique to use Chart.js
+    If not provided, we will use the md5 hash of the data used (jsonified)
+  
+  * data (Required): The data to pass to the chart constructor
+  
     ```js
     new Chart(ctx, $chartData }});
     ```
-
+  
     For example, the file `data/charts/example.yml` could contain the following data
-
+  
     ```yaml
     type: "bar"
     data:
@@ -67,8 +68,13 @@
         }
     }
     ```
-
-    
+  
+  
+  Improvement possible:
+  
+  * Simplify some charts by pre-selecting some values
+  * For bar charts: Allow opening link by clicking a given bar?
+    https://stackoverflow.com/questions/37122484/chart-js-bar-chart-click-events
 
 
 

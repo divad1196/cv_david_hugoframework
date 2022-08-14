@@ -18,4 +18,4 @@ graph TD;
     C-->D;
 ```
 
-{{< chart id="basicChart" data=charts.example >}}
+{{< chart data=charts.example >}}
