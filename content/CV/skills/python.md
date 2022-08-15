@@ -18,4 +18,5 @@ graph TD;
     C-->D;
 ```
 
-{{< chart data=charts.example >}}
+<!-- {{< chart data=charts.example >}} -->
+{{< barChart data=charts.skills >}}
