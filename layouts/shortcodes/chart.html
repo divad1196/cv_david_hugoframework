@@ -1,0 +1,12 @@
+<div>
+    {{ $data := index .Site.Data (split (.Get "data") ".") }}
+    {{ $chartID := .Get "id" | default (md5 (jsonify $data)) }}
+    <canvas id='{{ $chartID }}' width='{{ .Get "width" }}' height='{{ .Get "height" }}'></canvas>
+    <script>
+        (function () {
+            var ctx = document.getElementById('{{ $chartID }}');
+            var myChart = new Chart(ctx, {{ $data }});
+        })();
+    </script>
+</div>
+{{ .Page.Store.Set "hasChart" true }}
