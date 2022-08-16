@@ -3,7 +3,8 @@
 * Theme: [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/)
   This was added using subtree to fix the version and allow easy changes
   ```bash
-  git subtree add --squash -P themes/PaperMod https://github.com/adityatelange/hugo-PaperMod.git master
+  git subtree add --squash -P themes/PaperMod git@github.com:divad1196/hugo-PaperMod.git master
+  # git subtree pull -P themes/PaperMod git@github.com:divad1196/hugo-PaperMod.git master
   ```
 
 
