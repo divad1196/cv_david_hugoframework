@@ -17,6 +17,3 @@ graph TD;
     B-->D;
     C-->D;
 ```
-
-<!-- {{< chart data=charts.example >}} -->
-{{< barChart data=charts.skills >}}

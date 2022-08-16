@@ -7,6 +7,9 @@ tags: ["test"]
 ---
 
 
+<!-- {{< chart data=charts.example >}} -->
+{{< barChart data=charts.skills >}}
+
 # Python
 test
 [python]({{< ref "python" >}} "See python")
