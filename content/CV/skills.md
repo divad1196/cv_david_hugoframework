@@ -26,11 +26,66 @@ I then found a one year stage in 2018 needing Python, Postgresql Web technologie
 The following chart shows my own skills evaluation against what I think there is left for me to learn.
 
 <!-- {{< chart data=charts.example >}} -->
-{{< barChart data=charts.skills >}}
+{{<barChart data=charts.skills >}}
+
+
+### 1. Python
+* Started to learn in 2018
+* Use daily: work (Odoo) and hobbies
+* Web Scrapping
+* Scripting
+* Micro web services
+* Master python3.5 / python3.6
+* Know features up to python3.10, but can't be used at work<br/>
+  e.g. match pattern, 
+
+#### Framework & librairies
+This is a summary of the most pertinent/useful ones I have worked with.
+* Fastapi
+* Flask
+* Django
+* SQLAlchemy, PonyOrm
+* lxml, json, requests, Pillow, ... (Web Scrapping)
+* Pandas, numpy (Data management)
+* Tkinter, pygame (prepare playful exercises)
+
+### 2. C/C++
+* Started to learn in 2016
+* Use regulary at school, occasionaly otherwise
+* Small project:
+* Implementation of Data structures and algorithms (to learn and/or compute large amount of values)
+
+#### Framework & librairies
+* SFML
+* QT
+* CrowCpp, Pistache.io
+* Boost
+* Eigen
+
+
+### 3. Javascript
+
+#### Framework & librairies
+
+##### 1. Vuejs
+
+
+##### 2. Reactjs
+
+
+##### 3. Jquery
+### 4. SQL (Postgesql)
+
+### 5. Java
+
+### 6. Bash
+
+
+
 
 <!-- # Python
 test
-[python]({{< ref "python" >}} "See python") -->
+[python]({{< ref "skills" >}} "See python") -->
 
 
 ## System administrator (Linux)
