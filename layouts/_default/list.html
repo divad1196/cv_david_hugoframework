@@ -36,11 +36,11 @@
 </div>
 {{- end }}
 
-{{- $pages := union .RegularPages .Sections }}
-
-{{- if .IsHome }}
+{{/* {{- $pages := union .RegularPages .Sections }} */}}
+{{- $pages :=where (where .Site.RegularPages ".Params.overview" true) ".Draft" false}}
+{{/* {{- if .IsHome }}
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- end }}
+{{- end }} */}}
 
 {{- $paginator := .Paginate $pages }}
 
