@@ -37,7 +37,12 @@
       referrerpolicy="no-referrer">
   </script>
   <script>
-    mermaid.initialize({ startOnLoad: true });
+    mermaid.initialize({
+        startOnLoad: true,
+        {{ if eq (.Page.Params.mermaidSecurityLevel) "loose" }}
+        securityLevel: 'loose'
+        {{ end }}
+    });
   </script>
 {{ end }}
 

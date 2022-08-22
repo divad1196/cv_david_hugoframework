@@ -25,8 +25,8 @@ weight: 50
 * Invoices
 * Logistics (Stock, Manufacturing, Repair)
 
-I was also in charge of other fields were less commonly requested.
-There are some exceptions since there were colleagues more suited to fullfil the clients needs:
+I was also in charge of other fields less commonly requested.
+There are some exceptions as there were colleagues more suited to fullfil the clients needs:
 * Accounting
 * CRM
 * HR

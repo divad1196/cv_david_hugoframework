@@ -1,11 +1,14 @@
 {{- $headers := findRE "<h[1-6].*?>(.|\n])+?</h[1-6]>" .Content -}}
 {{- $has_headers := ge (len $headers) 1 -}}
+{{- $foldable := ne (.Param "foldable") false -}}
 {{- if $has_headers -}}
 <div class="toc">
+    {{- if $foldable -}}
     <details {{if (.Param "TocOpen") }} open{{ end }}>
         <summary accesskey="c" title="(Alt + C)">
             <span class="details">{{- i18n "toc" | default "Table of Contents" }}</span>
         </summary>
+    {{ end }}
 
         <div class="inner">
             {{- if (.Param "UseHugoToc") }}
@@ -92,6 +95,9 @@
             </ul>
             {{- end }}
         </div>
+
+    {{- if $foldable -}}
     </details>
+    {{ end }}
 </div>
 {{- end }}
