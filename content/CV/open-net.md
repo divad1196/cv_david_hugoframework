@@ -9,6 +9,7 @@ weight: 50
 # [Open Net Sàrl](https://www.open-net.ch/)
 * Work on [Odoo](https://www.odoo.com/) ERP ("Enterprise resource planning"), a contestant of the famous [SAP](https://www.sap.com)
 * Since 2018
+* Odoo gold partner: [1st partner in Switzerland](https://www.odoo.com/fr_FR/partners/country/suisse-41), and [8th partner worldwide](https://www.odoo.com/fr_FR/partners?&country_all=True)
 
 ## Roles, responsabilities and attributions
 * Manage multiple projects, among the biggest one we have

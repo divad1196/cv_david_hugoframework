@@ -9,6 +9,7 @@ theme: PaperMod
 params:
   disableSpecial1stPost: true  # Do not treats first post differently
   ShowToc: true
+  # foldable: false
   ShowCodeCopyButtons: true # Adds a copy button in code block to copy the code it contains
   ShowPostNavLinks: true  # Adds a Previous / Next post suggestion under a single post
   ShowBreadCrumbs: true
@@ -31,15 +32,10 @@ params:
       #       url: tags
 
   homeInfoParams:
-      Title: "PaperMod"
+      Title: "David Gallay"
       Content: >
-          Welcome to demo of hugo's theme PaperMod.
-
-          - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-          - Do give a 🌟 on Github !
-
-          - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+          Hi and welcome on my blog / online CV. Contact me if you want!
+          Good reading.
 
   socialIcons: # optional
     - name: "github"

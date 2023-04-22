@@ -3,7 +3,8 @@ title: "Skills"
 date: 2022-08-13T12:18:49+02:00
 # draft: true
 overview: true
-tags: ["test"]
+# tags: ["test"]
+weight: 30
 ---
 
 # Skills
@@ -13,7 +14,7 @@ tags: ["test"]
 1. **French**: Mother tongue
 2. **English**: B2 cambridge certified (~C1 estimated, not certified)
 3. **German**: B1 certified (~B2 estimated, not certified). I would need a few days to get back on track.
-4. **Italian**: Notions (~A2)
+4. **Italian**: ~A2
 5. **Portuguese**: Notions (A1 at most, able to understand easy speechs)
 
 

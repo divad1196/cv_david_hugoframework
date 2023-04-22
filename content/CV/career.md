@@ -51,6 +51,9 @@ It was a bit too hard for me. I changed my vocation after discovering my love fo
 
 
 
+# Current Skills
+Have a look at my [skills]({{< ref "skills" >}})
+
 <!-- 
 {{<rawhtml>}}
 <script>
