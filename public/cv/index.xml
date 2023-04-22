@@ -1,51 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>CVs on David Gallay</title>
-    <link>http://example.org/cv/</link>
-    <description>Recent content in CVs on David Gallay</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/cv/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Skills</title>
-      <link>http://example.org/cv/skills/</link>
-      <pubDate>Sat, 13 Aug 2022 12:18:49 +0200</pubDate>
-      
-      <guid>http://example.org/cv/skills/</guid>
-      <description>Skills Languages French: Mother tongue English: B2 cambridge certified (~C1 estimated, not certified) German: B1 certified (~B2 estimated, not certified). I would need a few days to get back on track. Italian: ~A2 Portuguese: Notions (A1 at most, able to understand easy speechs) Cyberecurity Engineer My CS Bachelor degree is about security. The skills I got and trained are:
-Security risks awareness: What is dangerous and why Security mitigation: How to prevent/fix such risks Software/Malware/Cryptographic Analysis.</description>
-    </item>
-    
-    <item>
-      <title>Odoo</title>
-      <link>http://example.org/cv/odoo/</link>
-      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/cv/odoo/</guid>
-      <description>Odoo I work on Odoo since 2018. Odoo is a new generation ERP, aka &amp;ldquo;Enterprise resource planning&amp;rdquo;. It positions itself as a contestant of the famous SAP, leader in this field.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>CVs on David Gallay</title><link>https://divad1196.github.io/online-blog/cv/</link><description>Recent content in CVs on David Gallay</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://divad1196.github.io/online-blog/cv/index.xml" rel="self" type="application/rss+xml"/><item><title>Skills</title><link>https://divad1196.github.io/online-blog/cv/skills/</link><pubDate>Sat, 13 Aug 2022 12:18:49 +0200</pubDate><guid>https://divad1196.github.io/online-blog/cv/skills/</guid><description>Skills Languages French: Mother tongue English: B2 cambridge certified (~C1 estimated, not certified) German: B1 certified (~B2 estimated, not certified). I would need a few days to get back on track. Italian: ~A2 Portuguese: Notions (A1 at most, able to understand easy speechs) Cyberecurity Engineer My CS Bachelor degree is about security. The skills I got and trained are:
+Security risks awareness: What is dangerous and why Security mitigation: How to prevent/fix such risks Software/Malware/Cryptographic Analysis.</description></item><item><title>Odoo</title><link>https://divad1196.github.io/online-blog/cv/odoo/</link><pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/odoo/</guid><description>Odoo I work on Odoo since 2018. Odoo is a new generation ERP, aka &amp;ldquo;Enterprise resource planning&amp;rdquo;. It positions itself as a contestant of the famous SAP, leader in this field.
 You will find my opinion on Odoo here
-Open Source Odoo community edition is Open Source, this means anyone can read the code here. Nb: The code for the enterprise edition is also open source but you need to have an enterprise license to gain access.</description>
-    </item>
-    
-    <item>
-      <title>Open Net Sàrl</title>
-      <link>http://example.org/cv/open-net/</link>
-      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/cv/open-net/</guid>
-      <description>Open Net Sàrl Work on Odoo ERP (&amp;ldquo;Enterprise resource planning&amp;rdquo;), a contestant of the famous SAP Since 2018 Odoo gold partner: 1st partner in Switzerland, and 8th partner worldwide Roles, responsabilities and attributions Manage multiple projects, among the biggest one we have Great understanding of Odoo&amp;rsquo;s framework and its structure.
-I often act as a Human &amp;ldquo;Source of Knowledge&amp;rdquo; for my colleagues. In charge of most of the technically challenging features, like optimizations or API development.</description>
-    </item>
-    
-    <item>
-      <title>Career</title>
-      <link>http://example.org/cv/career/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/cv/career/</guid>
-      <description>German year Brig-glis (VS) 2010-2011 Goethe Certificate B1 (German) Highschool: LCC (&amp;ldquo;Lycée et Collège des Creusets&amp;rdquo;) Sion (VS) 2012-2016 First Certificate Cambridge Exam (FCE) B2 (English) Learned 1st year: Italian &amp;amp; Economics (only for the first year) 2nd year: Mathematics 3rd year: Biology &amp;amp; Chemistry (Specific Option) 4th year: Physics (Complementary Option) 5th year: No choice to make. Part of the rock band (Guitarist) for 1 year then the chores EPFL Lausanne (VD) 2016-2018 (Twice the first year) Formation: Physics It was a bit too hard for me.</description>
-    </item>
-    
-  </channel>
-</rss>
+Open Source Odoo community edition is Open Source, this means anyone can read the code here. Nb: The code for the enterprise edition is also open source but you need to have an enterprise license to gain access.</description></item><item><title>Open Net Sàrl</title><link>https://divad1196.github.io/online-blog/cv/open-net/</link><pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/open-net/</guid><description>Open Net Sàrl Work on Odoo ERP (&amp;ldquo;Enterprise resource planning&amp;rdquo;), a contestant of the famous SAP Since 2018 Odoo gold partner: 1st partner in Switzerland, and 8th partner worldwide Roles, responsabilities and attributions Manage multiple projects, among the biggest one we have Great understanding of Odoo&amp;rsquo;s framework and its structure.
+I often act as a Human &amp;ldquo;Source of Knowledge&amp;rdquo; for my colleagues. In charge of most of the technically challenging features, like optimizations or API development.</description></item><item><title>Career</title><link>https://divad1196.github.io/online-blog/cv/career/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/career/</guid><description>German year Brig-glis (VS) 2010-2011 Goethe Certificate B1 (German) Highschool: LCC (&amp;ldquo;Lycée et Collège des Creusets&amp;rdquo;) Sion (VS) 2012-2016 First Certificate Cambridge Exam (FCE) B2 (English) Learned 1st year: Italian &amp;amp; Economics (only for the first year) 2nd year: Mathematics 3rd year: Biology &amp;amp; Chemistry (Specific Option) 4th year: Physics (Complementary Option) 5th year: No choice to make. Part of the rock band (Guitarist) for 1 year then the chores EPFL Lausanne (VD) 2016-2018 (Twice the first year) Formation: Physics It was a bit too hard for me.</description></item></channel></rss>

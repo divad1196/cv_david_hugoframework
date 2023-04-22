@@ -34,7 +34,7 @@ It was a bit too hard for me. I changed my vocation after discovering my love fo
 * Internship: 2018-2019
 * Employed since 2019
 * Skills:
-  * Odoo ERP: Business Analysts skills
+  * Odoo ERP: Business Analyst's skills
   * Development: Web, Python, Postgresql, ...
   * Linux System Administration: LXC/LXD, Proxmox, Docker, ...
   
@@ -75,3 +75,5 @@ flowchart TB
     click C call callback() "Tooltip for a callback"
     click D href "https://www.github.com" "This is a tooltip for a link"
 ```  -->
+
+

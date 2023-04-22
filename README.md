@@ -1,11 +1,38 @@
 # My Website
 * Using [H.U.G.O](https://gohugo.io/) framework
-* Theme: [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/)
+* Theme: **fork** of [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/)
   This was added using subtree to fix the version and allow easy changes
+  
   ```bash
   git subtree add --squash -P themes/PaperMod git@github.com:divad1196/hugo-PaperMod.git master
   # git subtree pull -P themes/PaperMod git@github.com:divad1196/hugo-PaperMod.git master
   ```
+
+
+
+## Deploy
+
+We will use [github's Pages option](https://gohugo.io/hosting-and-deployment/hosting-on-github/) for the deployement.
+
+* The repository needs to be public otherwise you need a paid account
+* You can only use the repository's root or `docs/` folder for your pages.
+
+![github-pages](img/github-pages.png)
+
+I personally use the root folder and I will copy my website manually into another repository.
+
+
+
+1. Build the static site
+
+   ```bash
+   hugo --minify -b https://divad1196.github.io/online-blog/
+   ```
+
+   nb: This will change the base url for the deployment on github
+
+2. Copy the **CONTENT** of the generated `public/` folder at the root of the repository https://github.com/divad1196/online-blog
+   (replace the hold content).
 
 
 
