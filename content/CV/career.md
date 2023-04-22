@@ -1,5 +1,5 @@
 ---
-title: parcours
+title: Career
 overview: true
 # To allow callbacks: https://mermaid-js.github.io/mermaid/#/flowchart?id=interaction
 # mermaidSecurityLevel: "loose" 
@@ -10,33 +10,33 @@ overview: true
 * 2010-2011
 * Goethe Certificate B1 (German)
 
-# Highschool: Lycée et Collège des Creusets
+# Highschool: LCC ("Lycée et Collège des Creusets")
 * Sion (VS)
 * 2012-2016
 * First Certificate Cambridge Exam (FCE) B2 (English)
-* Learn
+* Learned
   * 1st year: Italian & Economics (only for the first year)
   * 2nd year: Mathematics
   * 3rd year: Biology & Chemistry (Specific Option)
   * 4th year: Physics (Complementary Option)
   * 5th year: No choice to make.
-* Part of the rock band for 1 year then the chores
+* Part of the rock band (Guitarist) for 1 year then the chores
 
 # EPFL
 * Lausanne (VD)
-* 2016-2018
-* Learn: Physics
+* 2016-2018 (Twice the first year)
+* Formation: Physics
+It was a bit too hard for me. I changed my vocation after discovering my love for programming thanks to the great teacher M. Chappelier.
 
-# Internship: Open Net Sàrl
+
+# [Open Net Sàrl]({{< ref "open-net" >}})
 * Bussigny (VD)
-* 2018-2019
-* Learn:
-  * Odoo
-  * Web Development (HTML, CSS, SCSS, Bootstrap, Javascript, Jquery)
-  * Python
-  * Database Management (Postgresql, SQL)
-  * System Administration (Linux - Debian Family - Bash/Zsh)
-  * Containerisation (LXC/LXD, Proxmox, Docker)
+* Internship: 2018-2019
+* Employed since 2019
+* Skills:
+  * Odoo ERP: Business Analysts skills
+  * Development: Web, Python, Postgresql, ...
+  * Linux System Administration: LXC/LXD, Proxmox, Docker, ...
   
 
 # [HEIG-VD](https://heig-vd.ch/en): School of Engineering and Management

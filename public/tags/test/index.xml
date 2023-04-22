@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>test on David Gallay</title>
+    <link>http://example.org/tags/test/</link>
+    <description>Recent content in test on David Gallay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Aug 2022 12:18:49 +0200</lastBuildDate><atom:link href="http://example.org/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skills</title>
+      <link>http://example.org/cv/skills/</link>
+      <pubDate>Sat, 13 Aug 2022 12:18:49 +0200</pubDate>
+      
+      <guid>http://example.org/cv/skills/</guid>
+      <description>Skills Languages French: Mother tongue English: B2 cambridge certified (~C1 not certified) German: B1 certified (~B2 not certified) long ago but would need only a few days to get back on track Italian: Notions (probably A2) Portuguese: Notions (A1 at most, able to understand easy speechs) Software Engineer I discovered programming at the EPFL around 2016 and started learning it by myself on my free time. During this time, I mostly focused on C/C++ and algorithms, but I took a quick look at java, javascript and bash scripting too.</description>
+    </item>
+    
+  </channel>
+</rss>

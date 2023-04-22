@@ -11,77 +11,102 @@ tags: ["test"]
 
 ## Languages
 1. **French**: Mother tongue
-2. **English**: B2 cambridge certified (~C1 not certified)
-3. **German**: B1 certified (~B2 not certified) long ago but would need only a few days to get back on track
-4. **Italian**: Notions (probably A2)
+2. **English**: B2 cambridge certified (~C1 estimated, not certified)
+3. **German**: B1 certified (~B2 estimated, not certified). I would need a few days to get back on track.
+4. **Italian**: Notions (~A2)
 5. **Portuguese**: Notions (A1 at most, able to understand easy speechs)
 
 
+
+## Cyberecurity Engineer
+
+My CS Bachelor degree is about security. The skills I got and trained are:
+* Security risks awareness: What is dangerous and why
+* Security mitigation: How to prevent/fix such risks
+* Software/Malware/Cryptographic Analysis. Tools: Ghidra, Volatility, gdb, pwntools...
+* Attacks
+  * On algorithm weakness (e.g. mode of operation for ciphers)
+  * On wireless network (e.g. sniffing, trame injections, ...). Tools: wireshark, scapy, nmap, ...
+  * High/Low level programming attacks (e.g. various kind of injections like SQL injection or XSS/CSRF, buffer overflows, weak OAuth flows, ...)
+  * Side channel and fault attacks
+  * Various attacks using Metasploit and python scripting
+* Defenses
+  * High/Low level programming (Good practices and algorithms, input sanitization, ...)
+  * Network: firewall, WAF, Snort
+
+A complete audit of a company was also part of the formation.
+Nb: We did learn a lot, but this skills need to be sharpened with the experience.  
+We did more attacks that defenses but the knowledge required are linked. 
+
 ## Software Engineer
-I discovered programming at the EPFL around 2016 and started learning it by myself on my free time.
-During this time, I mostly focused on C/C++ and algorithms, but I took a quick look at java, javascript and bash scripting too.
-I then found a one year stage in 2018 needing Python, Postgresql Web technologies in order to enter the engineering school.
+* Good logic and understanding of various DSA and IT concepts
+* Knowledge of many design patterns and paradigms. I can easily compare many solutions.
+* Easily adapt to the language idiomatic ways of programming which makes better code (performance, readability and maintenance)
+* Ability to forecast and plan the implementation.
 
-
-The following chart shows my own skills evaluation against what I think there is left for me to learn.
+The following chart shows my own programming language skill evaluation.
 
 <!-- {{< chart data=charts.example >}} -->
 {{<barChart data=charts.skills >}}
 
-
-### 1. Python
-* Started to learn in 2018
-* Use daily: work (Odoo) and hobbies
-* Web Scrapping
-* Scripting
-* Micro web services
-* Master python3.5 / python3.6
-* Know features up to python3.10, but can't be used at work<br/>
-  e.g. match pattern, 
-
-#### Framework & librairies
-This is a summary of the most pertinent/useful ones I have worked with.
-* Fastapi
-* Flask
-* Django
-* SQLAlchemy, PonyOrm
-* lxml, json, requests, Pillow, ... (Web Scrapping)
-* Pandas, numpy (Data management)
-* Tkinter, pygame (prepare playful exercises)
+Some more details below
+### 1. Python &#x1F5F2;
+* Started to learn in 2018 and used daily: work (Odoo) and hobbies
+* Frameworks & librairies:
+  * **Web**: Fastapi, Flask, Django, Odoo
+  * **ORM**: SQLAlchemy, PonyOrm, Odoo
+  * **Data**: Pandas, numpy
+  * **Interface**: Tkinter, pygame
+  * **Scripting/Scrapping**: lxml, json, requests, Pillow, ... 
+  * ...
+  
+  I am trying to get better statistical skills and learn to create my own ML models (pytorch)
 
 ### 2. C/C++
 * Started to learn in 2016
-* Use regulary at school, occasionaly otherwise
-* Small project:
-* Implementation of Data structures and algorithms (to learn and/or compute large amount of values)
-
-#### Framework & librairies
-* SFML
-* QT
-* CrowCpp, Pistache.io
-* Boost
-* Eigen
-
-
-### 3. Javascript
-
-#### Framework & librairies
-
-##### 1. Vuejs
+* Used regulary at school and occasionnaly on small personal projects
+* Implementation of custom made Data structures and algorithms at need for performance.
+  Now I usually prefer to use Rust when possible
+* Frameworks & librairies:
+  * **Interface/Graphism**: SFML, QT
+  * **Web**: CrowCpp, Pistache.io
+  * **Math**: Eigen
+  * **Misc**: Boost, ...
+  * ...
 
 
-##### 2. Reactjs
+### 3. Rust &#x2665;
+* Started to learn at the beginning of 2022 by myself and got a course later on it during in my formation
+* My current favorite language.  
+  Its syntax, its powerful macros, its project management and its good design and good usage of functional programming concepts, security concerns ... are unmatched
+* Frameworks & librairies:
+  * **Web**: Rocket, Axum
+  * **Concurrency**: Rayon, Tokyo
+  * **Serialization**: Serde (what else)
+  * **ORM**: Diesel
+  * **Permissions**: Casbin
+  * **CLI**: clap  
 
+  and the list keeps growing!
 
-##### 3. Jquery
-### 4. SQL (Postgesql)
+### 4. Javascript (& Web)
+* Started to learn in 2018
+* Mostly frontends: Vuejs, ReactJS, AlpineJs, Jquery, CSS/SCSS, bootstrap.  
+  Nb: I don't have a graphical skill, meaning I am usually not the one creating the design.
+* Also did some projects on: algorithms implementations, rendering, scrapping (puppeteer), ML (Tensorflow for handgesture recognition) and WebRTC/streaming
 
 ### 5. Java
+* Started to learn in 2019
+* Mostly did:
+  * Data structure and algorithms implementations
+  * Interface (Swing)
+  * Web (Springboot)
 
-### 6. Bash
+### 6. Kotlin
+Learned the basics of how to create an android app.
 
-
-
+### 7. SQL
+I am confortable with the old standard and the Postgres' flavor, but since I saw [modern SQL](https://modern-sql.com/), I think I have some more to learn before being statisfied with my level.
 
 <!-- # Python
 test
@@ -89,8 +114,9 @@ test
 
 
 ## System administrator (Linux)
-
-## Security Engineer
-
-My CS Bachelor degree is about security.
-I am lacking professional experiences in this field.
+* **Reverse Proxy**: Nginx, Traefik
+* **Containers/virtualization**: Docker, Podman, Kubernetes, OpenStack, Jelastic
+* **Management**: Ansible, Fabrik, Terraform (+ Terragrunt), Vagrant
+* **Network**: iptables, nftables, snort
+* **Monitoring**: Zabbix, Grafana Dashboard, fluentd
+* **Benchmark**: Apache Jmeter

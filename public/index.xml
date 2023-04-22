@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>David Gallay</title>
+    <link>http://example.org/</link>
+    <description>Recent content on David Gallay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Net Sàrl</title>
+      <link>http://example.org/cv/open-net/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cv/open-net/</guid>
+      <description>Open Net Sàrl Work on Odoo Work since 2018 Roles, responsabilities and attributions Manage multiple projects by myself, among the biggest one we had Great understanding of the structure of the framework In charge of most of the technically challenging features even for projects that weren&amp;rsquo;t mines Human &amp;ldquo;Source of Knowledge&amp;rdquo; for my colleagues Involved in almost every system decision since 2021 Troubleshooting (software, system and network) System administration, networking and security Main functional fields Sales Purchases Invoices Logistics (Stock, Manufacturing, Repair) I was also in charge of other fields less commonly requested.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>http://example.org/cv/skills/</link>
+      <pubDate>Sat, 13 Aug 2022 12:18:49 +0200</pubDate>
+      
+      <guid>http://example.org/cv/skills/</guid>
+      <description>Skills Languages French: Mother tongue English: B2 cambridge certified (~C1 not certified) German: B1 certified (~B2 not certified) long ago but would need only a few days to get back on track Italian: Notions (probably A2) Portuguese: Notions (A1 at most, able to understand easy speechs) Software Engineer I discovered programming at the EPFL around 2016 and started learning it by myself on my free time. During this time, I mostly focused on C/C++ and algorithms, but I took a quick look at java, javascript and bash scripting too.</description>
+    </item>
+    
+    
+    <item>
+      <title>parcours</title>
+      <link>http://example.org/cv/parcours/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cv/parcours/</guid>
+      <description>German year Brig-glis (VS) 2010-2011 Goethe Certificate B1 (German) Highschool: Lycée et Collège des Creusets Sion (VS) 2012-2016 First Certificate Cambridge Exam (FCE) B2 (English) Learn 1st year: Italian &amp;amp; Economics (only for the first year) 2nd year: Mathematics 3rd year: Biology &amp;amp; Chemistry (Specific Option) 4th year: Physics (Complementary Option) 5th year: No choice to make. Part of the rock band for 1 year then the chores EPFL Lausanne (VD) 2016-2018 Learn: Physics Internship: Open Net Sàrl Bussigny (VD) 2018-2019 Learn: Odoo Web Development (HTML, CSS, SCSS, Bootstrap, Javascript, Jquery) Python Database Management (Postgresql, SQL) System Administration (Linux - Debian Family - Bash/Zsh) Containerisation (LXC/LXD, Proxmox, Docker) HEIG-VD: School of Engineering and Management Yverdon (VD) 2019-2023 (expected) Learn: Cybersecurity Part-time: 70% School 50-60% work (Open Net Sàrl) Extra bootcamp during the 2nd year (Cloud Engineer Bootcamp - Linux Foundation) </description>
+    </item>
+    
+    
+  </channel>
+</rss>
