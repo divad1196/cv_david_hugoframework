@@ -1,16 +1,17 @@
 ---
 title: Career
 overview: true
+date: 2023-05-29
 # To allow callbacks: https://mermaid-js.github.io/mermaid/#/flowchart?id=interaction
 # mermaidSecurityLevel: "loose" 
 ---
 
-# German year
+# German year [(download certificat)](/Formations/Diplom%20der%203%20Orientierungsklasse.pdf)
 * Brig-glis (VS)
 * 2010-2011
 * Goethe Certificate B1 (German)
 
-# Highschool: LCC ("Lycée et Collège des Creusets")
+# Highschool: LCC ("Lycée et Collège des Creusets") [(download certificat)](/Formations/Certificat_maturite_college_Creusets_Sion-LCC.pdf)
 * Sion (VS)
 * 2012-2016
 * First Certificate Cambridge Exam (FCE) B2 (English)

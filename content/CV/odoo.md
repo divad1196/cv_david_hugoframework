@@ -1,6 +1,6 @@
 ---
 title: "Odoo"
-date: 2023-04-22
+date: 2023-05-29
 # draft: true
 overview: true
 weight: 40

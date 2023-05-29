@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-date: 2022-08-13T12:18:49+02:00
+date: 2023-05-29
 # draft: true
 overview: true
 # tags: ["test"]
@@ -12,8 +12,8 @@ weight: 30
 
 ## Languages
 1. **French**: Mother tongue
-2. **English**: B2 Cambridge certified (~C1 estimated, not certified)
-3. **German**: B1 certified (~B2 estimated, not certified). I would need a few days to get back on track.
+2. **English**: [B2 Cambridge certified (download)](/Languages/Certificat%20Cambridge%20(FCE)%20-%20B2.pdf) (~C1 estimated, not certified)
+3. **German**: [B1 certified (download)](/Languages/Zertifikat%20Deutsch%20-%20B1.pdf) (~B2 estimated, not certified). I would need a few days to get back on track.
 4. **Italian**: ~A2
 5. **Portuguese**: Notions (A1 at most, able to understand easy speeches)
 
@@ -36,8 +36,8 @@ My CS Bachelor degree is about security. The skills I got and trained are:
   * Network: firewall, WAF, Snort
 
 A complete audit of a company was also part of the formation.  
+It is worth mentioning that, even though the knowledge required are linked, we did more attacks than defenses.  
 Nb: We did learn a lot, but these skills need to be sharpened with the experience.  
-We did more attacks that defenses, but the knowledge required are linked. 
 
 ## Software Engineer
 * Good logic and understanding of various DSA and IT concepts
@@ -104,7 +104,7 @@ Some more details below
   * Web (Springboot)
 
 ### 6. Kotlin
-Learned the basics of how to create an android app.
+Learned the basics of how to create a native android app.
 
 ### 7. SQL
 I am comfortable with the old standard and the Postgres' flavor, but since I saw [modern SQL](https://modern-sql.com/), I think I have some more to learn before being statisfied with my level.

@@ -1,6 +1,6 @@
 ---
 title: "Open Net Sàrl"
-date: 2022-08-16
+date: 2023-05-29
 # draft: true
 overview: true
 weight: 50
@@ -16,7 +16,7 @@ weight: 50
 * Great understanding of Odoo's framework and its structure.  
   I often act as a Human "Source of Knowledge" for my colleagues.
 * In charge of most of the technically challenging features, like optimizations or API development.
-* In charge of the infrastructure and security since 2021
+* In charge of the infrastructure and security
 
 ## Main functional fields
 I manage all functional fields for my clients (Sale, Invoicing, Accounting, Webshop, ...).  
