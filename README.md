@@ -10,6 +10,16 @@
 
 
 
+```bash
+hugo --minify -b https://divad1196.github.io/online-blog/ --destination public
+```
+
+```
+hugo --minify -b https://divad1196.github.io/online-blog/ --destination public
+```
+
+
+
 ## Deploy
 
 We will use [github's Pages option](https://gohugo.io/hosting-and-deployment/hosting-on-github/) for the deployement.
@@ -33,6 +43,18 @@ I personally use the root folder and I will copy my website manually into anothe
 
 2. Copy the **CONTENT** of the generated `public/` folder at the root of the repository https://github.com/divad1196/online-blog
    (replace the hold content).
+
+
+
+### Urls
+
+There is no ideal solution. The best way is to use `<base>` tag and never prefix static content
+
+* https://github.com/gohugoio/hugo/issues/4733
+* https://gohugo.io/content-management/urls/#canonical-urls
+* https://github.com/gohugoio/hugo/issues/8078
+* https://github.com/gohugoio/hugo/issues/811
+* https://spec.commonmark.org/0.29/#links
 
 
 
