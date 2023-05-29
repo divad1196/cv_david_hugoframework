@@ -2,6 +2,7 @@ baseURL: http://example.org/
 languageCode: en-us
 title: David Gallay
 theme: PaperMod
+publishDir: docs
 # taxonomies:
 #   category: categories
 #   tag: tags
@@ -14,6 +15,8 @@ params:
   ShowPostNavLinks: true  # Adds a Previous / Next post suggestion under a single post
   ShowBreadCrumbs: true
   ShowShareButtons: true
+  # canonifyURLs: true
+  # relativeURLs: true
   # homeInfoParams:
   #   Title: Hi there wave
   #   Content: Can be Info, links, about...

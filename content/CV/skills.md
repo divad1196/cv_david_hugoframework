@@ -12,8 +12,8 @@ weight: 30
 
 ## Languages
 1. **French**: Mother tongue
-2. **English**: [B2 Cambridge certified (download)](/Languages/Certificat%20Cambridge%20(FCE)%20-%20B2.pdf) (~C1 estimated, not certified)
-3. **German**: [B1 certified (download)](/Languages/Zertifikat%20Deutsch%20-%20B1.pdf) (~B2 estimated, not certified). I would need a few days to get back on track.
+2. **English**: [B2 Cambridge certified (download)](Languages/Certificat%20Cambridge%20(FCE)%20-%20B2.pdf) (~C1 estimated, not certified)
+3. **German**: [B1 certified (download)](Languages/Zertifikat%20Deutsch%20-%20B1.pdf) (~B2 estimated, not certified). I would need a few days to get back on track.
 4. **Italian**: ~A2
 5. **Portuguese**: Notions (A1 at most, able to understand easy speeches)
 

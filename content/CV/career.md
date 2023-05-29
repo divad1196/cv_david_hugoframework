@@ -6,12 +6,12 @@ date: 2023-05-29
 # mermaidSecurityLevel: "loose" 
 ---
 
-# German year [(download certificat)](/Formations/Diplom%20der%203%20Orientierungsklasse.pdf)
+# German year [(download certificat)](Formations/Diplom%20der%203%20Orientierungsklasse.pdf)
 * Brig-glis (VS)
 * 2010-2011
 * Goethe Certificate B1 (German)
 
-# Highschool: LCC ("Lycée et Collège des Creusets") [(download certificat)](/Formations/Certificat_maturite_college_Creusets_Sion-LCC.pdf)
+# Highschool: LCC ("Lycée et Collège des Creusets") [(download certificat)](Formations/Certificat_maturite_college_Creusets_Sion-LCC.pdf)
 * Sion (VS)
 * 2012-2016
 * First Certificate Cambridge Exam (FCE) B2 (English)
