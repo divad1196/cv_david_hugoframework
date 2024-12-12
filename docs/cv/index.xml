@@ -1,6 +1,137 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>CVs on David Gallay</title><link>https://divad1196.github.io/online-blog/cv/</link><description>Recent content in CVs on David Gallay</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://divad1196.github.io/online-blog/cv/index.xml" rel="self" type="application/rss+xml"/><item><title>Certificats</title><link>https://divad1196.github.io/online-blog/cv/certificats/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/certificats/</guid><description>Certificats This page contains all my certificat in a downloadable version. Don&amp;rsquo;t forget to look the rest of the website.
-Cloud &amp;amp; Sysadmin Cloud Engineer Bootcamp Graduate Certified Kubernetes Administrator Containers Fundamentals DevOps and SRE Fundamentals: Implementing Continuous Delivery Essentials of Linux System Administration Kubernetes Fundamentals Linux Foundation Certified System Administrator Linux Networking and Administration Languages Cambridge English Level 1 Certificate in ESOL International (First) - FCE (estimated ~C1) Deutsch Zertifikat Formations (WIP) Bachelor in Cybersecurity of The School of Engineering and Management of Yverdon(VD - Switzerland), aka HEIG-VD High school maturity Diplom der 3 Orientierungsklasse</description></item><item><title>Skills</title><link>https://divad1196.github.io/online-blog/cv/skills/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/skills/</guid><description>Skills Languages French: Mother tongue English: B2 Cambridge certified (download) (~C1 estimated, not certified) German: B1 certified (download) (~B2 estimated, not certified). I would need a few days to get back on track. Italian: ~A2 Portuguese: Notions (A1 at most, able to understand easy speeches) Cybersecurity Engineer My CS Bachelor degree is about security. The skills I got and trained are:
-Security risks awareness: What is dangerous and why Security mitigation: How to prevent/fix such risks Software/Malware/Cryptographic Analysis.</description></item><item><title>Odoo</title><link>https://divad1196.github.io/online-blog/cv/odoo/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/odoo/</guid><description>Odoo I work on Odoo since 2018. Odoo is a new generation ERP, aka &amp;ldquo;Enterprise resource planning&amp;rdquo;. It positions itself as a contestant of the famous SAP, leader in this field.
-You will find my opinion on Odoo here
-Open Source Odoo community edition is Open Source, this means anyone can read the code here. Nb: The code for the enterprise edition is also open source, but you need to have an enterprise license to gain access.</description></item><item><title>Open Net Sàrl</title><link>https://divad1196.github.io/online-blog/cv/open-net/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/open-net/</guid><description>Open Net Sàrl Work on Odoo ERP (&amp;ldquo;Enterprise resource planning&amp;rdquo;), a contestant of the famous SAP Since 2018 Odoo gold partner: 1st partner in Switzerland, and 8th partner worldwide Roles, responsibilities and attributions Manage multiple projects, among the biggest one we have Great understanding of Odoo&amp;rsquo;s framework and its structure.
-I often act as a Human &amp;ldquo;Source of Knowledge&amp;rdquo; for my colleagues. In charge of most of the technically challenging features, like optimizations or API development.</description></item><item><title>Career</title><link>https://divad1196.github.io/online-blog/cv/career/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/career/</guid><description>German year (download certificat) Brig-glis (VS) 2010-2011 Goethe Certificate B1 (German) Highschool: LCC (&amp;ldquo;Lycée et Collège des Creusets&amp;rdquo;) (download certificat) Sion (VS) 2012-2016 First Certificate Cambridge Exam (FCE) B2 (English) Learned 1st year: Italian &amp;amp; Economics (only for the first year) 2nd year: Mathematics 3rd year: Biology &amp;amp; Chemistry (Specific Option) 4th year: Physics (Complementary Option) 5th year: No choice to make. Part of the rock band (Guitarist) for 1 year then the chores EPFL Lausanne (VD) 2016-2018 (Twice the first year) Formation: Physics It was a bit too hard for me.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>CVs on David Gallay</title><link>https://divad1196.github.io/online-blog/cv/</link><description>Recent content in CVs on David Gallay</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://divad1196.github.io/online-blog/cv/index.xml" rel="self" type="application/rss+xml"/><item><title>Certificats</title><link>https://divad1196.github.io/online-blog/cv/certificats/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/certificats/</guid><description>&lt;h1 id="certificats">Certificats&lt;/h1>
+&lt;p>This page contains the list of all my certificates.&lt;/p>
+&lt;h2 id="cloud--sysadmin">Cloud &amp;amp; Sysadmin&lt;/h2>
+&lt;ul>
+&lt;li>Cloud Engineer Bootcamp Graduate&lt;/li>
+&lt;li>Certified Kubernetes Administrator&lt;/li>
+&lt;li>Containers Fundamentals&lt;/li>
+&lt;li>DevOps and SRE Fundamentals: Implementing Continuous Delivery&lt;/li>
+&lt;li>Essentials of Linux System Administration&lt;/li>
+&lt;li>Kubernetes Fundamentals&lt;/li>
+&lt;li>Linux Foundation Certified System Administrator&lt;/li>
+&lt;li>Linux Networking and Administration&lt;/li>
+&lt;/ul>
+&lt;h2 id="languages">Languages&lt;/h2>
+&lt;ul>
+&lt;li>Cambridge English Level 1 Certificate in ESOL International (First) - FCE (estimated ~C1)&lt;/li>
+&lt;li>Deutsch Zertifikat&lt;/li>
+&lt;/ul>
+&lt;h2 id="formations">Formations&lt;/h2>
+&lt;ul>
+&lt;li>(WIP) Bachelor in Cybersecurity of The School of Engineering and Management of Yverdon(VD - Switzerland), aka HEIG-VD&lt;/li>
+&lt;li>High school maturity&lt;/li>
+&lt;li>Diplom der 3 Orientierungsklasse&lt;/li>
+&lt;/ul></description></item><item><title>Skills</title><link>https://divad1196.github.io/online-blog/cv/skills/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/skills/</guid><description>&lt;h1 id="skills">Skills&lt;/h1>
+&lt;h2 id="languages">Languages&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>French&lt;/strong>: Mother tongue&lt;/li>
+&lt;li>&lt;strong>English&lt;/strong>: B2 Cambridge certified (~C1 estimated, not certified)&lt;/li>
+&lt;li>&lt;strong>German&lt;/strong>: B1 certified (~B2 estimated, not certified). I would need a few days to get back on track.&lt;/li>
+&lt;li>&lt;strong>Italian&lt;/strong>: ~A2&lt;/li>
+&lt;li>&lt;strong>Portuguese&lt;/strong>: Notions (A1 at most, able to understand easy speeches)&lt;/li>
+&lt;/ol>
+&lt;h2 id="cybersecurity-engineer">Cybersecurity Engineer&lt;/h2>
+&lt;p>My CS Bachelor degree is about security. The skills I got and trained are:&lt;/p>
+&lt;ul>
+&lt;li>Security risks awareness: What is dangerous and why&lt;/li>
+&lt;li>Security mitigation: How to prevent/fix such risks&lt;/li>
+&lt;li>Software/Malware/Cryptographic Analysis. Tools: Ghidra, Volatility, gdb, pwntools&amp;hellip;&lt;/li>
+&lt;li>Attacks
+&lt;ul>
+&lt;li>On algorithm weakness (e.g. mode of operation for ciphers)&lt;/li>
+&lt;li>On wireless network (e.g. sniffing, trame injections, &amp;hellip;). Tools: wireshark, scapy, nmap, &amp;hellip;&lt;/li>
+&lt;li>High/Low level programming attacks (e.g. various kind of injections like SQL injection or XSS/CSRF, buffer overflows, weak OAuth flows, &amp;hellip;)&lt;/li>
+&lt;li>Side channel and fault attacks&lt;/li>
+&lt;li>Various attacks using Metasploit and python scripting&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Defenses
+&lt;ul>
+&lt;li>High/Low level programming (Good practices and algorithms, input sanitization, &amp;hellip;)&lt;/li>
+&lt;li>Network: firewall, WAF, Snort&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>A complete audit of a company was also part of the formation.&lt;br>
+It is worth mentioning that, even though the knowledge required are linked, we did more attacks than defenses.&lt;br>
+Nb: We did learn a lot, but these skills need to be sharpened with the experience.&lt;/p></description></item><item><title>Odoo</title><link>https://divad1196.github.io/online-blog/cv/odoo/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/odoo/</guid><description>&lt;h1 id="odoohttpswwwodoocom">&lt;a href="https://www.odoo.com/">Odoo&lt;/a>&lt;/h1>
+&lt;p>I work on Odoo since 2018.
+Odoo is a new generation ERP, aka &amp;ldquo;Enterprise resource planning&amp;rdquo;.
+It positions itself as a contestant of the famous &lt;a href="https://www.sap.com">SAP&lt;/a>, leader in this field.&lt;/p>
+&lt;p>You will find my opinion on Odoo here&lt;/p>
+&lt;h2 id="open-source">Open Source&lt;/h2>
+&lt;p>Odoo community edition is &lt;strong>Open Source&lt;/strong>, this means anyone can read the code &lt;a href="https://github.com/odoo/odoo">here&lt;/a>.
+Nb: The code for the enterprise edition is also open source, but you need to have an enterprise license to gain access.&lt;/p></description></item><item><title>Open Net Sàrl</title><link>https://divad1196.github.io/online-blog/cv/open-net/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/open-net/</guid><description>&lt;h1 id="open-net-sàrlhttpswwwopen-netch">&lt;a href="https://www.open-net.ch/">Open Net Sàrl&lt;/a>&lt;/h1>
+&lt;ul>
+&lt;li>Work on &lt;a href="https://www.odoo.com/">Odoo&lt;/a> ERP (&amp;ldquo;Enterprise resource planning&amp;rdquo;), a contestant of the famous &lt;a href="https://www.sap.com">SAP&lt;/a>&lt;/li>
+&lt;li>Since 2018&lt;/li>
+&lt;li>Odoo gold partner: &lt;a href="https://www.odoo.com/fr_FR/partners/country/suisse-41">1st partner in Switzerland&lt;/a>, and &lt;a href="https://www.odoo.com/fr_FR/partners?&amp;amp;country_all=True">8th partner worldwide&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="roles-responsibilities-and-attributions">Roles, responsibilities and attributions&lt;/h2>
+&lt;ul>
+&lt;li>Manage multiple projects, among the biggest one we have&lt;/li>
+&lt;li>Great understanding of Odoo&amp;rsquo;s framework and its structure.&lt;br>
+I often act as a Human &amp;ldquo;Source of Knowledge&amp;rdquo; for my colleagues.&lt;/li>
+&lt;li>In charge of most of the technically challenging features, like optimizations or API development.&lt;/li>
+&lt;li>In charge of the infrastructure and security&lt;/li>
+&lt;/ul>
+&lt;h2 id="main-functional-fields">Main functional fields&lt;/h2>
+&lt;p>I manage all functional fields for my clients (Sale, Invoicing, Accounting, Webshop, &amp;hellip;).&lt;br>
+I am the official logistic expert, this implies stock, manufacturing, repair, PLM, &amp;hellip; I am therefore requested to handle this part on other projects than mine&lt;/p></description></item><item><title>Career</title><link>https://divad1196.github.io/online-blog/cv/career/</link><pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate><guid>https://divad1196.github.io/online-blog/cv/career/</guid><description>&lt;h1 id="german-year">German year&lt;/h1>
+&lt;ul>
+&lt;li>Brig-glis (VS)&lt;/li>
+&lt;li>2010-2011&lt;/li>
+&lt;li>Goethe Certificate B1 (German)&lt;/li>
+&lt;/ul>
+&lt;h1 id="highschool-lcc-lycée-et-collège-des-creusets">Highschool: LCC (&amp;ldquo;Lycée et Collège des Creusets&amp;rdquo;)&lt;/h1>
+&lt;ul>
+&lt;li>Sion (VS)&lt;/li>
+&lt;li>2012-2016&lt;/li>
+&lt;li>First Certificate Cambridge Exam (FCE) B2 (English)&lt;/li>
+&lt;li>Learned
+&lt;ul>
+&lt;li>1st year: Italian &amp;amp; Economics (only for the first year)&lt;/li>
+&lt;li>2nd year: Mathematics&lt;/li>
+&lt;li>3rd year: Biology &amp;amp; Chemistry (Specific Option)&lt;/li>
+&lt;li>4th year: Physics (Complementary Option)&lt;/li>
+&lt;li>5th year: No choice to make.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Part of the rock band (Guitarist) for 1 year then the chores&lt;/li>
+&lt;/ul>
+&lt;h1 id="epfl">EPFL&lt;/h1>
+&lt;ul>
+&lt;li>Lausanne (VD)&lt;/li>
+&lt;li>2016-2018 (Twice the first year)&lt;/li>
+&lt;li>Formation: Physics
+It was a bit too hard for me. I changed my vocation after discovering my love for programming thanks to the great teacher M. Chappelier.&lt;/li>
+&lt;/ul>
+&lt;h1 id="open-net-sàrlhahahugoshortcode6s0hbhb">&lt;a href="https://divad1196.github.io/online-blog/cv/open-net/">Open Net Sàrl&lt;/a>&lt;/h1>
+&lt;ul>
+&lt;li>Bussigny (VD)&lt;/li>
+&lt;li>Internship: 2018-2019&lt;/li>
+&lt;li>Employed since 2019&lt;/li>
+&lt;li>Skills:
+&lt;ul>
+&lt;li>Odoo ERP: Business Analyst&amp;rsquo;s skills&lt;/li>
+&lt;li>Development: Web, Python, Postgresql, &amp;hellip;&lt;/li>
+&lt;li>Linux System Administration: LXC/LXD, Proxmox, Docker, &amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="heig-vdhttpsheig-vdchen-school-of-engineering-and-management">&lt;a href="https://heig-vd.ch/en">HEIG-VD&lt;/a>: School of Engineering and Management&lt;/h1>
+&lt;ul>
+&lt;li>Yverdon (VD)&lt;/li>
+&lt;li>2019-2023 (expected)&lt;/li>
+&lt;li>Learn: &lt;a href="https://heig-vd.ch/formations/bachelor/filieres/informatique-et-systemes-de-communication/securite-informatique">Cybersecurity&lt;/a>&lt;/li>
+&lt;li>Part-time:
+&lt;ul>
+&lt;li>70% School&lt;/li>
+&lt;li>50-60% work (Open Net Sàrl)&lt;/li>
+&lt;li>Extra bootcamp during the 2nd year
+(&lt;a href="https://training.linuxfoundation.org/training/cloud-engineer-bootcamp/">Cloud Engineer Bootcamp - Linux Foundation&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="current-skills">Current Skills&lt;/h1>
+&lt;p>Have a look at my &lt;a href="https://divad1196.github.io/online-blog/cv/skills/">skills&lt;/a>&lt;/p></description></item></channel></rss>
