@@ -14,6 +14,8 @@ This page contains the list of all my certificates.
 
 ## Cloud & Sysadmin
 
+These certificates come from the [Cloud Engineer IT Professional Program](https://training.linuxfoundation.org/training/cloud-engineer-itprofessionalprogram/) bootcamp on [The Linux Foundation](https://www.linuxfoundation.org/) Platform. The bootcamp was completed end of 2021.
+
 * Cloud Engineer Bootcamp Graduate
 * Certified Kubernetes Administrator
 * Containers Fundamentals
@@ -28,7 +30,7 @@ This page contains the list of all my certificates.
 * Cambridge English Level 1 Certificate in ESOL International (First) - FCE (estimated ~C1)
 * Deutsch Zertifikat
 
-## Formations
-* (WIP) Bachelor in Cybersecurity of The School of Engineering and Management of Yverdon(VD - Switzerland), aka HEIG-VD 
+## Schools
+* Bachelor in Cybersecurity of The School of Engineering and Management of Yverdon(VD - Switzerland), aka HEIG-VD 
 * High school maturity
 * Diplom der 3 Orientierungsklasse

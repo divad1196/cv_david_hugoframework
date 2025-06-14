@@ -37,7 +37,12 @@ params:
   homeInfoParams:
       Title: "David Gallay"
       Content: >
-          Hi and welcome on my blog / online CV. Contact me if you want!
+          Hi and welcome on my website!  
+
+          I am a Computer Science Engineer who developed skills in multiple fields  
+
+          This website will present my career path and skills I gathered through it.  
+
           Good reading.
 
   socialIcons: # optional

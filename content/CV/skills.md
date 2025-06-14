@@ -16,6 +16,7 @@ weight: 30
 3. **German**: B1 certified (~B2 estimated, not certified). I would need a few days to get back on track.
 4. **Italian**: ~A2
 5. **Portuguese**: Notions (A1 at most, able to understand easy speeches)
+6. **Japanese**: Notions (N5 at most, still learning)
 
 
 
@@ -34,6 +35,7 @@ My CS Bachelor degree is about security. The skills I got and trained are:
 * Defenses
   * High/Low level programming (Good practices and algorithms, input sanitization, ...)
   * Network: firewall, WAF, Snort
+  * Cryptography: Symetric and Asymetric Signatures(Simple, multi-sig and threshold)/Encryption(operating modes, authenticated cipher)/hash(cryptographically safe vs unsafe), SSL/TLS, ...
 
 A complete audit of a company was also part of the formation.  
 It is worth mentioning that, even though the knowledge required are linked, we did more attacks than defenses.  
@@ -69,10 +71,10 @@ Some more details below
 * Implementation of custom-made Data structures and algorithms at need for performance.
   Now, I usually prefer to use Rust when possible
 * Frameworks & libraries:
-  * **Interface/Graphism**: SFML, QT
+  * **Interface/Graphism**: [SFML](https://www.sfml-dev.org/), QT (Did a harmonic movement simulator)
   * **Web**: CrowCpp, Pistache.io
   * **Math**: Eigen
-  * **Misc**: Boost, ...
+  * **Misc**: Boost, [nlohmann/json](https://github.com/nlohmann/json), ...
   * ...
 
 
@@ -81,9 +83,9 @@ Some more details below
 * My current favorite language.  
   Its syntax, its powerful macros, its project management and its good design and good usage of functional programming concepts, security concerns ... are unmatched
 * Frameworks & libraries:
-  * **Web**: Rocket, Axum
+  * **Web**: Rocket, Axum & Actix
   * **Concurrency**: Rayon, Tokyo
-  * **Serialization**: Serde (what else)
+  * **Serialization**: Serde (what else ?)
   * **ORM**: Diesel
   * **Permissions**: Casbin
   * **CLI**: clap  
@@ -92,22 +94,37 @@ Some more details below
 
 ### 4. Javascript (& Web)
 * Started to learn in 2018
-* Mostly frontends: Vuejs, ReactJS, AlpineJs, Jquery, CSS/SCSS, bootstrap.  
+* Mostly frontends: Vuejs, ReactJS, AlpineJs, HTMX, Jquery, [OWL](https://github.com/odoo/owl), CSS/SCSS, bootstrap.  
   Nb: I don't have a graphical skill, meaning I am usually not the one creating the design.
 * Also did some projects on: algorithms implementations, rendering, scrapping (puppeteer), ML (Tensorflow for hand gesture recognition) and WebRTC/streaming
 
 ### 5. Java
 * Started to learn in 2019
+* 
 * Mostly did:
   * Data structure and algorithms implementations
   * Interface (Swing)
   * Web (Springboot)
 
-### 6. Kotlin
-Learned the basics of how to create a native android app.
+### 6. Go
+* Started to learn in 2019
+* Mostly did:
+  * Microservices (e.g. proxy to transform requests)
+  * Terraform provider
 
-### 7. SQL
+### 7. Bash
+* Started to learn in 2018
+* Mostly did:
+  * I extensively use the terminal. 
+    Using bash allow me to test and reproduce my workflows.
+  * One-shot scripts
+  * CI scripts (often in combination with [Makefile](https://www.gnu.org/software/make/manual/make.html) and [Phony targets](https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html))
+
+### 8. SQL
 I am comfortable with the old standard and the Postgres' flavor, but since I saw [modern SQL](https://modern-sql.com/), I think I have some more to learn before being statisfied with my level.
+
+### 9. Kotlin
+Learned the basics of how to create a native android app.
 
 <!-- # Python
 test
@@ -115,6 +132,7 @@ test
 
 
 ## System administrator (Linux)
+
 * **Reverse Proxy**: Nginx, Traefik
 * **Containers/virtualization**: Docker, Podman, Kubernetes, OpenStack, Jelastic
 * **Management**: Ansible, Fabrik, Terraform (+ Terragrunt), Vagrant
@@ -122,3 +140,17 @@ test
 * **Monitoring**: Zabbix, Grafana Dashboard, fluentd
 * **Benchmark**: Apache Jmeter
 
+## Cryptography (Signatures, Challenges, encryptions, ...)
+
+I have a good understanding of cryptographical concepts.  
+Among them, I have worked a lot with certificates (public and internal).
+
+I know how self-signed certificates work and how to use them.
+
+Wildcard certificates don't work on the firs level, e.g. `*.mydomain` will not be validated by a browser for security reasons.
+But `*.sub.mydomain` will work.
+
+## DNS
+
+CNAME are not aliases, they must be unique per name. This is why we cannot have a CNAME at the APEX: Because they conflict with the NS records.
+DNS are used for DNS-challenges upon certificate generation, especially when using multiple SAN or wildcard certificates.
