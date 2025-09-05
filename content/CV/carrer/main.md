@@ -26,6 +26,10 @@ date: 2023-05-29
   * Smooth transition from legacy to newer architecture/design
   * Avoid creating technical debts; favorize simple automations with great value
 
+I joined the corporate IT team as the DevOps expert, simplifying and improving legacy services and adding new ones following state-of-the-art practices.
+My management skills led me to take on projects beyond my role.
+
+
 <!-- # Current Skills
 Have a look at my [skills]({{< slugref "skills" >}}) -->
 
@@ -39,6 +43,9 @@ Have a look at my [skills]({{< slugref "skills" >}}) -->
   * Linux System Administration: Proxmox, LXC/LXD, Docker, ...
   
 
+Open Net was the 1st Odoo integrator in Switzerland. I held multiple roles including Lead Developer, main Sysadmin and expert in Logistic & Manufacturing. I had at my charge of some of our largest  projects.
+
+
 # [HEIG-VD](https://heig-vd.ch/en) — School of Engineering and Management
 * Where: 1401 Yverdon-les-Bains (VD)
 * When: 2019-2023 (Part-time over 4 years)
@@ -48,6 +55,9 @@ Have a look at my [skills]({{< slugref "skills" >}}) -->
   * 60% work (Open Net Sàrl)
   * Extra bootcamp during the 2nd year
     ([Cloud Engineer Bootcamp - Linux Foundation](https://training.linuxfoundation.org/training/cloud-engineer-bootcamp/))
+
+
+Well-known for its quality, this formation provides a great understanding of all IT fields, how attack them and then how to defend them.
 
 
 <!-- 
