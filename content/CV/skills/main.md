@@ -5,7 +5,7 @@ date: 2023-05-29
 # draft: true
 overview: true
 # tags: ["test"]
-weight: 30
+weight: 20
 ---
 
 
@@ -16,18 +16,18 @@ weight: 30
 ## Lead Software Engineer
 
 Rather than chasing complexity, I keep solutions simple, efficient, and maintainable, which allows projects to move forward smoothly.
-This pragmatism, combined with my strong technical skills, is what enabled me to advance quickly to the position of Lead Software Developer.
+This pragmatism, combined with my strong technical skills, enabled me to advance quickly to the position of Lead Software Developer.
 
-I also take care to help and mentor my teammates in this same approach.
+I also take care to help and mentor my teammates in this same approach, ensuring they feel valued and respected.
 
 [More information about the programming languages I use]({{< slugref "programming-languages" >}})
 
-## [System administrator (Linux)]({{< slugref "sysadmin" >}})
+## [System Administrator (Linux)]({{< slugref "sysadmin" >}})
 
-Beyond development, I took responsibility for the administration systems, where I identified and resolved many long-standing issues.  
-By improving system stability and streamlining workflows, I ensured a more reliable infrastructure and drasticaly reduce the number of failures.
+Beyond development, I took responsibility for the administration systems, identifying and resolving many long-standing issues.
+By improving system stability and streamlining workflows, I ensured a more reliable infrastructure and drastically reduced the number of failures.
 
-Being initially a developer and working on system administration, I naturally began developing the practices that I would later recognize as **DevOps**.
+Being initially a developer and working on system administration, I naturally began developing the practices that I would later recognize as DevOps.
 
 ## [Cybersecurity Engineer]({{< slugref "cybersecurity" >}})
 
@@ -39,8 +39,8 @@ This naturally led me from DevOps to **DevSecOps**, integrating static analysis 
 
 ## Project Manager
 
-Project management is often overlooked, and its value underestimated. Many managers are skilled engineers who have never fully made the switch and struggle to plan effectively for others in the long term. It is also common for management to become a black box, isolated from the team, which can lead to long meetings, micromanagement, and, most importantly, dissatisfaction.
+Project management is often overlooked, and its value underestimated. Many managers are skilled engineers who have never fully made the switch and struggle to plan effectively for others in the long term. It is also common for management to become a blackbox, isolated from the team, which can lead to long meetings, micromanagement, and, most importantly, dissatisfaction.
 
-Having experienced these frustrations firsthand, I took charge of projects and gradually learned how to manage them effectively. I take responsibility for planning and guiding projects while recognizing that I cannot know everything. Listening to team members, accepting constructive criticism, and delegating tasks are essential to effective management.
+Having experienced these frustrations firsthand, I took charge of projects and gradually learned how to manage them effectively. I take responsibility for planning and guiding projects while recognizing that I cannot know everything: listening to team members, accepting constructive criticism, and delegating tasks are essential to effective management.
 
-In addition, I worked directly with customers while leading development projects, particularly in the context of Odoo ERP, where I was also the expert in logistics and manufacturing. This experience taught me how to define precise, feasible project specifications even from unclear requests, ensuring they meet customer needs. I also learned how to communicate and document effectively, and how to respond calmly and efficiently in emergency situations.
+In addition, I worked directly with customers while leading development projects, particularly in the context of Odoo ERP. This experience taught me how to define precise, feasible project specifications even from unclear requests, ensuring they meet customer needs. I also learned how to communicate and document effectively, and how to respond calmly and efficiently in emergency situations.

@@ -8,48 +8,6 @@ date: 2023-05-29
 # mermaidSecurityLevel: "loose" 
 ---
 
-# German year
-* Brig-glis (VS)
-* 2010-2011
-* Goethe Certificate B1 (German)
-
-# Highschool: LCC ("Lycée et Collège des Creusets")
-* Sion (VS)
-* 2012-2016
-* First Certificate Cambridge Exam (FCE) B2 (English)
-* Learned
-  * 1st year: Italian & Economics (only for the first year)
-  * 2nd year: Mathematics
-  * 3rd year: Biology & Chemistry (Specific Option)
-  * 4th year: Physics (Complementary Option)
-  * 5th year: No choice to make.
-* Part of the rock band (Guitarist) for 1 year then the choir
-
-# EPFL
-* Lausanne (VD)
-* 2016-2018 (Twice the first year)
-* Formation: Physics
-It was a bit too hard for me. I changed my vocation after discovering my love for programming thanks to the great teacher M. Chappelier.
-
-
-# [Open Net Sàrl]({{< slugref "open-net" >}})
-* Bussigny (VD) / Lausanne (VD)
-* 2018-2023
-* Skills:
-  * Odoo ERP: Business Analyst's skill 
-  * Development: Web, Python, Postgresql, ...
-  * Linux System Administration: LXC/LXD, Proxmox, Docker, ...
-  
-
-# [HEIG-VD](https://heig-vd.ch/en) — School of Engineering and Management
-* Where: 1401 Yverdon-les-Bains (VD)
-* When: 2019-2023
-* Learn: [Cybersecurity](https://heig-vd.ch/formations/bachelor/filieres/informatique-et-systemes-de-communication/securite-informatique)
-* Part-time:
-  * 70% School
-  * 60% work (Open Net Sàrl)
-  * Extra bootcamp during the 2nd year
-    ([Cloud Engineer Bootcamp - Linux Foundation](https://training.linuxfoundation.org/training/cloud-engineer-bootcamp/))
 
 
 # [Kudelski Group](https://www.nagra.com/): DevOps Engineer
@@ -68,8 +26,29 @@ It was a bit too hard for me. I changed my vocation after discovering my love fo
   * Smooth transition from legacy to newer architecture/design
   * Avoid creating technical debts; favorize simple automations with great value
 
-# Current Skills
-Have a look at my [skills]({{< slugref "skills" >}})
+<!-- # Current Skills
+Have a look at my [skills]({{< slugref "skills" >}}) -->
+
+
+# [Open Net Sàrl]({{< slugref "open-net" >}})
+* Bussigny (VD) / Lausanne (VD)
+* 2018-2023
+* Skills:
+  * Odoo ERP: Business Analyst's skill 
+  * Development: Web, Python, Postgresql, ...
+  * Linux System Administration: Proxmox, LXC/LXD, Docker, ...
+  
+
+# [HEIG-VD](https://heig-vd.ch/en) — School of Engineering and Management
+* Where: 1401 Yverdon-les-Bains (VD)
+* When: 2019-2023 (Part-time over 4 years)
+* Learn: [Cybersecurity](https://heig-vd.ch/formations/bachelor/filieres/informatique-et-systemes-de-communication/securite-informatique)
+* Part-time:
+  * 70% School
+  * 60% work (Open Net Sàrl)
+  * Extra bootcamp during the 2nd year
+    ([Cloud Engineer Bootcamp - Linux Foundation](https://training.linuxfoundation.org/training/cloud-engineer-bootcamp/))
+
 
 <!-- 
 {{<rawhtml>}}

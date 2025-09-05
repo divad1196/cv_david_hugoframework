@@ -7,89 +7,79 @@ date: 2025-06-14
 ---
 
 # [Nagra — Kudelski Group](https://www.nagra.com/): DevOps Engineer
-* Cheseaux-sur-Lausanne, 1033 (VD)
-* 2023 - Today
-* Skills:
-  * Extensive use of DevOps Tools: Terraform, Docker, Ansible, python/bash scripts, Gitlab / Azure DevOps pipelines
-  * Multi-cloud / SaaS solutions: AWS, Cloudflare and a bit of Azure (App registration / enterprise application, Azure Deveops)
-  * Take over of abandoned projects / inventories
-  * Data retrieval and analysis
-  * PaloAlto Firewalls / Cisco routers and switches
-  * Developement and consolidation of the inventories: Netbox, ServiceNow, Denodo
-* Challenges:
-  * Work with heterogeneous hardware and software version
-  * Extra care to transfer the knowledge, especially to non-devops people.
-  * Smooth transition from legacy to newer architecture/design
-  * Avoid creating technical debts; favorize simple automations with great value
+
+I joined the corporate IT team as the DevOps expert, simplifying and improving legacy services and adding new ones following state-of-the-art practices.  
+My management skills led me to take on projects beyond my role.
 
 
+## Example of Projects and Tasks
 
-I worked on many projects, even some that were not managed by my team.  
-I also asked to take over abandonned projects.  
 
-As I displayed my capacity to just "make things work", I also inherited projects.
+### AI integration
+
+With the rise of AI, I was tasked with evaluating the complexity and benefits of its implementation. I worked primarily with CrewAI, Ollama, and Python on LLMs.
+
+While LLMs are easy to extend and integrate, common use cases, such as corporate-specific responses, are already addressed by existing products.  
+Implementing AI internally without creating a new product would have introduced unnecessary technical debt.
+
+### Domain Names Inventory
+
+We owned hundreds of domain names with no consolidated tracking. Previous attempts at inventory were outdated and scattered across multiple registrar platforms.
+
+I assessed the situation and led a corporate-wide collection of information over several months to consolidate the inventory. I ensured that each domain had a clear owner and implemented notifications for ownership transfer when an owner departs.
+
+The inventory now enables security scans and monitoring, ensures a known point of contact for faster issue resolution, allows periodic review to remove unused domains, and serves as a reliable source for automations.
+
+It has also been extended to manage parked domains, ensuring proper records, hardening, and HTTP redirections, reducing workload for the CorpSec, Legal, and Marketing teams.
 
 
 ## Monitoring: Grafana-Prometheus Stack
 
-## "AI"
+## Netbox Inventory
 
-I worked with LLM, CrewAI, Python, DuckDB, ... to make ...
-
-
-
-## Domain Names
 
 ## Cloudflare
 
-I was in charge of our Cloudflare accounts. I developed good reflexes regarding the Security aspects:
-- WAF
-- SSL
-- ...
+...
 Our team also acted as a broker between Cloudflare and other teams.  
 
-## [Denodo](https://www.denodo.com/en)
+## [Denodo](https://www.denodo.com/en) (Data Agregation Platform)
 
-Denodo is an aggregation plateform that allowed us to take data from different sources, transform and combine them to finally expose them to different users. We could for example combine data from our IPAM inventory and results of internal scans.  
+- Created, fixed, and simplified various views, using techniques like xpath to streamline complex queries.
+- Developed a custom extension adding multiple tools, including ones essential for INET operations.
+- Tested performance impacts to optimize joins, avoiding costly use of custom functions in JOIN statements.
 
-### My contributions
-- Create, fix and simplified different views.  
-  Using less obvious tools like `xpath`, I simplified most of our views.  
-- I developed a custom extension to add many tools include some necessary for INET operations.  
-  I also tested the performances impact to optimize our joins. Typically, customs functions should not be used in `JOIN` statements. 
-
-## ServiceNow
-
-We used ServiceNow to expose our services in the Catalog.  
-This way, the rest of the company could easily ask us for standardized tasks.  
-
-### My contributions
-- Create and fix existing Catalog Items
-- Added external automations that would pull from ServiceNow and/or push data to it.
-- Developed Flow Tools for ServiceNow, like [Actions](https://developer.servicenow.com/dev.do#!/learn/courses/yokohama/app_store_learnv2_aescreateappfromscratch_yokohama_create_an_app_from_scratch_with_app_engine_studio/app_store_learnv2_aescreateappfromscratch_yokohama_automate_processes_with_flows/app_store_learnv2_aescreateappfromscratch_yokohama_actions)
-- I integrated ServiceNow with Power Automate Platform
-
-Of course, I was also a user and fullfiler of the platform.
+## [ServiceNow](https://www.servicenow.com/uk/)
+- Defined and refined existing catalog items.
+- Used ServiceNow as the source of truth for automations.
+- Developed Flow Tools, including [Actions](https://developer.servicenow.com/dev.do#!/learn/courses/yokohama/app_store_learnv2_aescreateappfromscratch_yokohama_create_an_app_from_scratch_with_app_engine_studio/app_store_learnv2_aescreateappfromscratch_yokohama_automate_processes_with_flows/app_store_learnv2_aescreateappfromscratch_yokohama_actions)
+- Integrated ServiceNow with the Power Automate platform.
+- Acted as a user and fulfiller of the platform, ensuring end-to-end understanding of workflows.
 
 
 ## PKI (Public Key Infrastructure)
 
 ## Digicert: External PKI
+
+When I took over Digicert management, the process was largely manual, with no tracking or history, as all previous requests had been submitted via email.  
+Requesters had to monitor certificate expirations themselves, which led to major outages when multiple certificates expired between my predecessor's departure and my takeover.
+Digicert certificates are expensive, and my predecessor used a laborious workaround with wildcard and duplicate certificates to save costs, which further complicated management.
+
+I identified that many requests did not actually require Digicert and could use, for example, Let's Encrypt instead.  
+I enforced the use of the ACME protocol, presenting it to users as a self-provisioning, maintenance-free solution, and provided documentation and support to facilitate adoption.
+
 ## EJBCA: Internal PKI 
 
-When I took over the PKI:
-- There was no documentation
-- We had no track of who asked for what, when and why.
-- The configuration were wrong, for example:
-  - nobody was receiving any notification
-  - some operations were wrongly blocked by the WAF (because the mail template were using `${variable}` in templates, which looked like shell-injections)
-  - we needed to manually extract the OID value and search on the ActiveDirectory to find the requester's email
-- All the processes were done manually
+When I took over the PKI, there was no documentation, no tracking of requests, and many configuration issues:
+- Notifications were not being sent.
+- Some operations were blocked by the WAF due to mail templates using `${variable}`, which resembled shell injections.
+- OID values had to be manually extracted and matched in Active Directory to identify requesters.
+- All processes were performed manually.
 
-I fixed all the configuration issues and documented all processes.  
-I added features like ACME to allow automatic management of the certificates.  
-This way:
-- It was easier for user to ask for certificates
-- Validation was delegated to the internal DNS
-- Renewal was automatically managed
-- All the internal traffic became encrypted and trusted
+I resolved the configuration issues and documented all processes. I also activated features such as ACME for automatic certificate management.
+
+As a result:
+- Requesting certificates became easier for users.
+- Validation was delegated to the internal DNS.
+- Certificate renewal was fully automated.
+- All internal traffic became encrypted and trusted.

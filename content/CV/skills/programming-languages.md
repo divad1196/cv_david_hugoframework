@@ -96,7 +96,3 @@ I am comfortable with the old standard and the Postgres' flavor, but since I saw
 
 ### 9. Kotlin
 Learned the basics of how to create a native android app.
-
-<!-- # Python
-test
-[python]({{< ref "skills" >}} "See python") -->
