@@ -26,7 +26,8 @@ While I currently never had a job solely focus on this field, Cybersecurity has 
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/cv/carrer/carrer/</guid>
-      <description>&lt;h1 id=&#34;kudelski-group-devops-engineer&#34;&gt;&lt;a href=&#34;https://www.nagra.com/&#34;&gt;Kudelski Group&lt;/a&gt;: DevOps Engineer&lt;/h1&gt;
+      <description>&lt;p&gt;Here is a summary of my noticeable experiences.&lt;/p&gt;
+&lt;h1 id=&#34;kudelski-group-devops-engineer&#34;&gt;&lt;a href=&#34;https://www.nagra.com/&#34;&gt;Kudelski Group&lt;/a&gt;: DevOps Engineer&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Cheseaux-sur-Lausanne, 1033 (VD)&lt;/li&gt;
 &lt;li&gt;2023 - Today&lt;/li&gt;
@@ -70,11 +71,11 @@ By improving system stability and streamlining workflows, I ensured a more relia
     </item>
     
     <item>
-      <title>Certificats</title>
-      <link>http://localhost:1313/cv/certificats/</link>
+      <title>Certifications</title>
+      <link>http://localhost:1313/cv/certifications/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cv/certificats/</guid>
+      <guid>http://localhost:1313/cv/certifications/</guid>
       <description>&lt;h1 id=&#34;certificats&#34;&gt;Certificats&lt;/h1&gt;
 &lt;p&gt;This page contains the list of all my certificates.&lt;/p&gt;
 &lt;h2 id=&#34;cloud--sysadmin&#34;&gt;Cloud &amp;amp; Sysadmin&lt;/h2&gt;
@@ -151,57 +152,6 @@ Nb: We did learn a lot, but these skills need to be sharpened with the experienc
     </item>
     
     <item>
-      <title>Formations</title>
-      <link>http://localhost:1313/cv/carrer/formations/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/cv/carrer/formations/</guid>
-      <description>&lt;h1 id=&#34;heig-vd--school-of-engineering-and-management&#34;&gt;&lt;a href=&#34;https://heig-vd.ch/en&#34;&gt;HEIG-VD&lt;/a&gt; — School of Engineering and Management&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Where: 1401 Yverdon-les-Bains (VD)&lt;/li&gt;
-&lt;li&gt;When: 2019-2023&lt;/li&gt;
-&lt;li&gt;Learn: &lt;a href=&#34;https://heig-vd.ch/formations/bachelor/filieres/informatique-et-systemes-de-communication/securite-informatique&#34;&gt;Cybersecurity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Part-time:
-&lt;ul&gt;
-&lt;li&gt;70% School&lt;/li&gt;
-&lt;li&gt;60% work (Open Net Sàrl)&lt;/li&gt;
-&lt;li&gt;Extra bootcamp during the 2nd year
-(&lt;a href=&#34;https://training.linuxfoundation.org/training/cloud-engineer-bootcamp/&#34;&gt;Cloud Engineer Bootcamp - Linux Foundation&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;epfl&#34;&gt;EPFL&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Lausanne (VD)&lt;/li&gt;
-&lt;li&gt;2016-2018 (Twice the first year)&lt;/li&gt;
-&lt;li&gt;Formation: Physics
-It was a bit too hard for me. I changed my vocation after discovering my love for programming thanks to the great teacher M. Chappelier.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;highschool-lcc-lycée-et-collège-des-creusets&#34;&gt;Highschool: LCC (&amp;ldquo;Lycée et Collège des Creusets&amp;rdquo;)&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Sion (VS)&lt;/li&gt;
-&lt;li&gt;2012-2016&lt;/li&gt;
-&lt;li&gt;First Certificate Cambridge Exam (FCE) B2 (English)&lt;/li&gt;
-&lt;li&gt;Learned
-&lt;ul&gt;
-&lt;li&gt;1st year: Italian &amp;amp; Economics (only for the first year)&lt;/li&gt;
-&lt;li&gt;2nd year: Mathematics&lt;/li&gt;
-&lt;li&gt;3rd year: Biology &amp;amp; Chemistry (Specific Option)&lt;/li&gt;
-&lt;li&gt;4th year: Physics (Complementary Option)&lt;/li&gt;
-&lt;li&gt;5th year: No choice to make.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Part of the rock band (Guitarist) for 1 year then the choir&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;german-year&#34;&gt;German year&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Brig-glis (VS)&lt;/li&gt;
-&lt;li&gt;2010-2011&lt;/li&gt;
-&lt;li&gt;Goethe Certificate B1 (German)&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>Languages</title>
       <link>http://localhost:1313/cv/skills/languages/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
@@ -238,22 +188,6 @@ Other than that, I only use English.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;The following chart shows my own programming language skill evaluation.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://localhost:1313/cv/skills/programming-languages/&#34;&gt;More information about the programming languages I use&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Odoo</title>
-      <link>http://localhost:1313/cv/carrer/odoo/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/cv/carrer/odoo/</guid>
-      <description>&lt;h1 id=&#34;odoo&#34;&gt;&lt;a href=&#34;https://www.odoo.com/&#34;&gt;Odoo&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;I work on Odoo since 2018.
-Odoo is a new generation ERP, aka &amp;ldquo;Enterprise resource planning&amp;rdquo;.
-It positions itself as a contestant of the famous &lt;a href=&#34;https://www.sap.com&#34;&gt;SAP&lt;/a&gt;, leader in this field.&lt;/p&gt;
-&lt;p&gt;You will find my opinion on Odoo here&lt;/p&gt;
-&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
-&lt;p&gt;Odoo community edition is &lt;strong&gt;Open Source&lt;/strong&gt;, this means anyone can read the code &lt;a href=&#34;https://github.com/odoo/odoo&#34;&gt;here&lt;/a&gt;.
-Nb: The code for the enterprise edition is also open source, but you need to have an enterprise license to gain access.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -8,6 +8,7 @@ date: 2023-05-29
 # mermaidSecurityLevel: "loose" 
 ---
 
+Here is a summary of my noticeable experiences.  
 
 
 # [Kudelski Group](https://www.nagra.com/): DevOps Engineer
@@ -32,7 +33,7 @@ My management skills led me to take on projects beyond my role.
 
 <!-- # Current Skills
 Have a look at my [skills]({{< slugref "skills" >}}) -->
-
+{{< clickable slug="open-net" >}}
 
 # [Open Net Sàrl]({{< slugref "open-net" >}})
 * Bussigny (VD) / Lausanne (VD)
@@ -44,7 +45,7 @@ Have a look at my [skills]({{< slugref "skills" >}}) -->
   
 
 Open Net was the 1st Odoo integrator in Switzerland. I held multiple roles including Lead Developer, main Sysadmin and expert in Logistic & Manufacturing. I had at my charge of some of our largest  projects.
-
+{{< /clickable >}}
 
 # [HEIG-VD](https://heig-vd.ch/en) — School of Engineering and Management
 * Where: 1401 Yverdon-les-Bains (VD)

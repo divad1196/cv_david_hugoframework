@@ -1,0 +1,26 @@
+{{/* Get parameters */}}
+{{ $url := .Get "url" }}
+{{ $slug := .Get "slug" }}
+{{ $class := or (.Get "class") "" }}
+
+{{/* Error handling for missing or conflicting parameters */}}
+{{ if and $url $slug }}
+  {{ errorf "clickable shortcode: provide either 'url' or 'slug', not both." }}
+{{ end }}
+{{ if and (not $url) (not $slug) }}
+  {{ errorf "clickable shortcode: you must provide either 'url' or 'slug'." }}
+{{ end }}
+
+{{/* Resolve slug to URL if provided */}}
+{{ if $slug }}
+  {{ $match := first 1 (where site.RegularPages "Slug" $slug) }}
+  {{ if gt (len $match) 0 }}
+    {{ $url = (index $match 0).RelPermalink }}
+  {{ else }}
+    {{ errorf "clickable shortcode: no page found with slug %q" $slug }}
+  {{ end }}
+{{ end }}
+
+<div onclick="location.href='{{ $url | safeURL }}';" class="{{ $class }}" style="cursor: pointer;">
+{{ .Inner | markdownify }}
+</div>

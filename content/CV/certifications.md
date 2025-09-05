@@ -1,5 +1,6 @@
 ---
-title: "Certificats"
+title: "Certifications"
+slug: "certifications"
 date: 2023-05-29
 # draft: true
 overview: true

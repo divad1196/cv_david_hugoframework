@@ -8,10 +8,10 @@
     <loc>http://localhost:1313/cv/carrer/carrer/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cv/certificats/</loc>
+    <loc>http://localhost:1313/cv/skills/skills/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cv/skills/skills/</loc>
+    <loc>http://localhost:1313/cv/certifications/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cv/</loc>
@@ -33,9 +33,6 @@
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cv/skills/software-engineer/</loc>
-    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cv/carrer/odoo/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cv/carrer/open-net/</loc>
