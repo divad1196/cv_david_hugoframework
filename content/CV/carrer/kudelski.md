@@ -1,24 +1,23 @@
 ---
-title: "Kudelski"
+title: "Nagra — Kudelski Group"
 date: 2025-06-14
 # draft: true
-overview: true
-# tags: ["test"]
-weight: 10
+# overview: true
+# weight: 10
 ---
 
-# [Kudelski Group](https://www.nagra.com/): DevOps Engineer
+# [Nagra — Kudelski Group](https://www.nagra.com/): DevOps Engineer
 * Cheseaux-sur-Lausanne, 1033 (VD)
 * 2023 - Today
 * Skills:
   * Extensive use of DevOps Tools: Terraform, Docker, Ansible, python/bash scripts, Gitlab / Azure DevOps pipelines
-  * Multi-cloud / Saas solutions: AWS, Cloudflare and a bit of Azure (App registration / enterprise application, Azure Deveops)
-  * Take over of abandonned projects / inventories
+  * Multi-cloud / SaaS solutions: AWS, Cloudflare and a bit of Azure (App registration / enterprise application, Azure Deveops)
+  * Take over of abandoned projects / inventories
   * Data retrieval and analysis
   * PaloAlto Firewalls / Cisco routers and switches
   * Developement and consolidation of the inventories: Netbox, ServiceNow, Denodo
 * Challenges:
-  * Work with heterogeneous hardward and software version
+  * Work with heterogeneous hardware and software version
   * Extra care to transfer the knowledge, especially to non-devops people.
   * Smooth transition from legacy to newer architecture/design
   * Avoid creating technical debts; favorize simple automations with great value
@@ -36,6 +35,8 @@ As I displayed my capacity to just "make things work", I also inherited projects
 ## "AI"
 
 I worked with LLM, CrewAI, Python, DuckDB, ... to make ...
+
+
 
 ## Domain Names
 

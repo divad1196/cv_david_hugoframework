@@ -1,6 +1,8 @@
 ---
 title: Career
+slug: carrer
 overview: true
+weight: 10
 date: 2023-05-29
 # To allow callbacks: https://mermaid-js.github.io/mermaid/#/flowchart?id=interaction
 # mermaidSecurityLevel: "loose" 
@@ -30,7 +32,7 @@ date: 2023-05-29
 It was a bit too hard for me. I changed my vocation after discovering my love for programming thanks to the great teacher M. Chappelier.
 
 
-# [Open Net Sàrl]({{< ref "open-net" >}})
+# [Open Net Sàrl]({{< slugref "open-net" >}})
 * Bussigny (VD) / Lausanne (VD)
 * 2018-2023
 * Skills:
@@ -67,7 +69,7 @@ It was a bit too hard for me. I changed my vocation after discovering my love fo
   * Avoid creating technical debts; favorize simple automations with great value
 
 # Current Skills
-Have a look at my [skills]({{< ref "skills" >}})
+Have a look at my [skills]({{< slugref "skills" >}})
 
 <!-- 
 {{<rawhtml>}}

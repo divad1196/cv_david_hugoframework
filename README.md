@@ -62,7 +62,7 @@ There is no ideal solution. The best way is to use `<base>` tag and never prefix
 
 * `overview: true` on a page: display it on the home page
 
-* Support for [mermaid](https://mermaid-js.github.io/mermaid/#/) diagram ([official hugo tutorial](https://gohugo.io/content-management/diagrams/))
+* Support for [mermaid](https://mermaid-js.github.io/mermaid/#/) diagram ([official hugo tutorial](https://gohugo.io/content-management/diagrams/#mermaid-diagrams))
 
 * Support for charts using `Chart.js` .
   

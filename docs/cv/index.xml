@@ -6,7 +6,7 @@
     <description>Recent content in CVs on David Gallay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/cv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who am I?</title>
       <link>http://localhost:1313/cv/introduction/</link>
@@ -21,129 +21,11 @@ While I currently never had a job solely focus on this field, Cybersecurity has 
     </item>
     
     <item>
-      <title>Certificats</title>
-      <link>http://localhost:1313/cv/certificats/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/cv/certificats/</guid>
-      <description>&lt;h1 id=&#34;certificats&#34;&gt;Certificats&lt;/h1&gt;
-&lt;p&gt;This page contains the list of all my certificates.&lt;/p&gt;
-&lt;h2 id=&#34;cloud--sysadmin&#34;&gt;Cloud &amp;amp; Sysadmin&lt;/h2&gt;
-&lt;p&gt;These certificates come from the &lt;a href=&#34;https://training.linuxfoundation.org/training/cloud-engineer-itprofessionalprogram/&#34;&gt;Cloud Engineer IT Professional Program&lt;/a&gt; bootcamp on &lt;a href=&#34;https://www.linuxfoundation.org/&#34;&gt;The Linux Foundation&lt;/a&gt; Platform. The bootcamp was completed end of 2021.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Cloud Engineer Bootcamp Graduate&lt;/li&gt;
-&lt;li&gt;Certified Kubernetes Administrator&lt;/li&gt;
-&lt;li&gt;Containers Fundamentals&lt;/li&gt;
-&lt;li&gt;DevOps and SRE Fundamentals: Implementing Continuous Delivery&lt;/li&gt;
-&lt;li&gt;Essentials of Linux System Administration&lt;/li&gt;
-&lt;li&gt;Kubernetes Fundamentals&lt;/li&gt;
-&lt;li&gt;Linux Foundation Certified System Administrator&lt;/li&gt;
-&lt;li&gt;Linux Networking and Administration&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Cambridge English Level 1 Certificate in ESOL International (First) - FCE (estimated ~C1)&lt;/li&gt;
-&lt;li&gt;Deutsch Zertifikat&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;schools&#34;&gt;Schools&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Bachelor in Cybersecurity of The School of Engineering and Management of Yverdon(VD - Switzerland), aka HEIG-VD&lt;/li&gt;
-&lt;li&gt;High school maturity&lt;/li&gt;
-&lt;li&gt;Diplom der 3 Orientierungsklasse&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Skills</title>
-      <link>http://localhost:1313/cv/skills/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/cv/skills/</guid>
-      <description>&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
-&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;French&lt;/strong&gt;: Mother tongue&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;English&lt;/strong&gt;: B2 Cambridge certified (~C1 estimated, not certified)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;German&lt;/strong&gt;: B1 certified (~B2 estimated, not certified). I would need a few days to get back on track.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Italian&lt;/strong&gt;: ~A2&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Portuguese&lt;/strong&gt;: Notions (A1 at most, able to understand easy speeches)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Japanese&lt;/strong&gt;: Notions (N5 at most, still learning)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;cybersecurity-engineer&#34;&gt;Cybersecurity Engineer&lt;/h2&gt;
-&lt;p&gt;My CS Bachelor degree is about security. The skills I got and trained are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Security risks awareness: What is dangerous and why&lt;/li&gt;
-&lt;li&gt;Security mitigation: How to prevent/fix such risks&lt;/li&gt;
-&lt;li&gt;Software/Malware/Cryptographic Analysis. Tools: Ghidra, Volatility, gdb, pwntools&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Attacks
-&lt;ul&gt;
-&lt;li&gt;On algorithm weakness (e.g. mode of operation for ciphers)&lt;/li&gt;
-&lt;li&gt;On wireless network (e.g. sniffing, trame injections, &amp;hellip;). Tools: wireshark, scapy, nmap, &amp;hellip;&lt;/li&gt;
-&lt;li&gt;High/Low level programming attacks (e.g. various kind of injections like SQL injection or XSS/CSRF, buffer overflows, weak OAuth flows, &amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Side channel and fault attacks&lt;/li&gt;
-&lt;li&gt;Various attacks using Metasploit and python scripting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Defenses
-&lt;ul&gt;
-&lt;li&gt;High/Low level programming (Good practices and algorithms, input sanitization, &amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Network: firewall, WAF, Snort&lt;/li&gt;
-&lt;li&gt;Cryptography: Symetric and Asymetric Signatures(Simple, multi-sig and threshold)/Encryption(operating modes, authenticated cipher)/hash(cryptographically safe vs unsafe), SSL/TLS, &amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;A complete audit of a company was also part of the formation.&lt;br&gt;
-It is worth mentioning that, even though the knowledge required are linked, we did more attacks than defenses.&lt;br&gt;
-Nb: We did learn a lot, but these skills need to be sharpened with the experience.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Odoo</title>
-      <link>http://localhost:1313/cv/carrer/odoo/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/cv/carrer/odoo/</guid>
-      <description>&lt;h1 id=&#34;odoo&#34;&gt;&lt;a href=&#34;https://www.odoo.com/&#34;&gt;Odoo&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;I work on Odoo since 2018.
-Odoo is a new generation ERP, aka &amp;ldquo;Enterprise resource planning&amp;rdquo;.
-It positions itself as a contestant of the famous &lt;a href=&#34;https://www.sap.com&#34;&gt;SAP&lt;/a&gt;, leader in this field.&lt;/p&gt;
-&lt;p&gt;You will find my opinion on Odoo here&lt;/p&gt;
-&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
-&lt;p&gt;Odoo community edition is &lt;strong&gt;Open Source&lt;/strong&gt;, this means anyone can read the code &lt;a href=&#34;https://github.com/odoo/odoo&#34;&gt;here&lt;/a&gt;.
-Nb: The code for the enterprise edition is also open source, but you need to have an enterprise license to gain access.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Open Net Sàrl</title>
-      <link>http://localhost:1313/cv/carrer/open-net/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/cv/carrer/open-net/</guid>
-      <description>&lt;h1 id=&#34;open-net-sàrl&#34;&gt;&lt;a href=&#34;https://www.open-net.ch/&#34;&gt;Open Net Sàrl&lt;/a&gt;&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Worked on &lt;a href=&#34;https://www.odoo.com/&#34;&gt;Odoo&lt;/a&gt; ERP (&amp;ldquo;Enterprise resource planning&amp;rdquo;), a contestant of the famous &lt;a href=&#34;https://www.sap.com&#34;&gt;SAP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;From September 2018 to September 2023&lt;/li&gt;
-&lt;li&gt;Odoo gold partner (when I worked there): &lt;a href=&#34;https://www.odoo.com/fr_FR/partners/country/suisse-41&#34;&gt;1st partner in Switzerland&lt;/a&gt;, and &lt;a href=&#34;https://www.odoo.com/fr_FR/partners?&amp;amp;country_all=True&#34;&gt;7th partner worldwide&lt;/a&gt;. They dropped 2nd in Switzerland and 22nd worldwide 2 years after my departure.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;roles-responsibilities-and-attributions&#34;&gt;Roles, responsibilities and attributions&lt;/h2&gt;
-&lt;p&gt;Through hard and consistant work, I quickly gained a lot of roles in this company.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lead Sysadmin: Stabilize, document, standardize and improve the infrastructure.&lt;/li&gt;
-&lt;li&gt;Lead Developer: Evaluate and assign projects, Take over sensitive tasks, code reviews, candidate interview, new hired and apprentices onboarding.&lt;/li&gt;
-&lt;li&gt;Security Expert:&lt;/li&gt;
-&lt;li&gt;Project Manager:&lt;/li&gt;
-&lt;li&gt;Business Analyst (for some of our biggest customers)&lt;/li&gt;
-&lt;li&gt;Logistic ERP Expert (Stock, Manufacturing, Repair, PLM, &amp;hellip;  )&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;With all these roles to manage in parallel, I got better at scheduling my priorities and taking decisions.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Career</title>
-      <link>http://localhost:1313/cv/carrer/career/</link>
+      <link>http://localhost:1313/cv/carrer/carrer/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cv/carrer/career/</guid>
+      <guid>http://localhost:1313/cv/carrer/carrer/</guid>
       <description>&lt;h1 id=&#34;german-year&#34;&gt;German year&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Brig-glis (VS)&lt;/li&gt;
@@ -223,7 +105,278 @@ It was a bit too hard for me. I changed my vocation after discovering my love fo
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;current-skills&#34;&gt;Current Skills&lt;/h1&gt;
-&lt;p&gt;Have a look at my &lt;a href=&#34;http://localhost:1313/cv/skills/&#34;&gt;skills&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Have a look at my &lt;a href=&#34;http://localhost:1313/cv/skills/skills/&#34;&gt;skills&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Certificats</title>
+      <link>http://localhost:1313/cv/certificats/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/certificats/</guid>
+      <description>&lt;h1 id=&#34;certificats&#34;&gt;Certificats&lt;/h1&gt;
+&lt;p&gt;This page contains the list of all my certificates.&lt;/p&gt;
+&lt;h2 id=&#34;cloud--sysadmin&#34;&gt;Cloud &amp;amp; Sysadmin&lt;/h2&gt;
+&lt;p&gt;These certificates come from the &lt;a href=&#34;https://training.linuxfoundation.org/training/cloud-engineer-itprofessionalprogram/&#34;&gt;Cloud Engineer IT Professional Program&lt;/a&gt; bootcamp on &lt;a href=&#34;https://www.linuxfoundation.org/&#34;&gt;The Linux Foundation&lt;/a&gt; Platform. The bootcamp was completed end of 2021.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloud Engineer Bootcamp Graduate&lt;/li&gt;
+&lt;li&gt;Certified Kubernetes Administrator&lt;/li&gt;
+&lt;li&gt;Containers Fundamentals&lt;/li&gt;
+&lt;li&gt;DevOps and SRE Fundamentals: Implementing Continuous Delivery&lt;/li&gt;
+&lt;li&gt;Essentials of Linux System Administration&lt;/li&gt;
+&lt;li&gt;Kubernetes Fundamentals&lt;/li&gt;
+&lt;li&gt;Linux Foundation Certified System Administrator&lt;/li&gt;
+&lt;li&gt;Linux Networking and Administration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cambridge English Level 1 Certificate in ESOL International (First) - FCE (estimated ~C1)&lt;/li&gt;
+&lt;li&gt;Deutsch Zertifikat&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;schools&#34;&gt;Schools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bachelor in Cybersecurity of The School of Engineering and Management of Yverdon(VD - Switzerland), aka HEIG-VD&lt;/li&gt;
+&lt;li&gt;High school maturity&lt;/li&gt;
+&lt;li&gt;Diplom der 3 Orientierungsklasse&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/cv/skills/skills/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/skills/skills/</guid>
+      <description>&lt;h2 id=&#34;lead-software-engineer&#34;&gt;Lead Software Engineer&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/cv/skills/programming-languages/&#34;&gt;More information about the programming languages I use&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;system-administrator-linux&#34;&gt;&lt;a href=&#34;http://localhost:1313/cv/skills/sysadmin/&#34;&gt;System administrator (Linux)&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I started to work actively on system administration&lt;/p&gt;
+&lt;h2 id=&#34;cybersecurity-engineer&#34;&gt;&lt;a href=&#34;http://localhost:1313/cv/skills/cybersecurity/&#34;&gt;Cybersecurity Engineer&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I actually did my degree in Cybersecurity at the &lt;code&gt;School of Engineering and Management (HEIG-VD)&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;project-manager&#34;&gt;Project Manager&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nagra — Kudelski Group</title>
+      <link>http://localhost:1313/cv/carrer/kudelski/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/carrer/kudelski/</guid>
+      <description>&lt;h1 id=&#34;nagra--kudelski-group-devops-engineer&#34;&gt;&lt;a href=&#34;https://www.nagra.com/&#34;&gt;Nagra — Kudelski Group&lt;/a&gt;: DevOps Engineer&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Cheseaux-sur-Lausanne, 1033 (VD)&lt;/li&gt;
+&lt;li&gt;2023 - Today&lt;/li&gt;
+&lt;li&gt;Skills:
+&lt;ul&gt;
+&lt;li&gt;Extensive use of DevOps Tools: Terraform, Docker, Ansible, python/bash scripts, Gitlab / Azure DevOps pipelines&lt;/li&gt;
+&lt;li&gt;Multi-cloud / SaaS solutions: AWS, Cloudflare and a bit of Azure (App registration / enterprise application, Azure Deveops)&lt;/li&gt;
+&lt;li&gt;Take over of abandoned projects / inventories&lt;/li&gt;
+&lt;li&gt;Data retrieval and analysis&lt;/li&gt;
+&lt;li&gt;PaloAlto Firewalls / Cisco routers and switches&lt;/li&gt;
+&lt;li&gt;Developement and consolidation of the inventories: Netbox, ServiceNow, Denodo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Challenges:
+&lt;ul&gt;
+&lt;li&gt;Work with heterogeneous hardware and software version&lt;/li&gt;
+&lt;li&gt;Extra care to transfer the knowledge, especially to non-devops people.&lt;/li&gt;
+&lt;li&gt;Smooth transition from legacy to newer architecture/design&lt;/li&gt;
+&lt;li&gt;Avoid creating technical debts; favorize simple automations with great value&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I worked on many projects, even some that were not managed by my team.&lt;br&gt;
+I also asked to take over abandonned projects.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity Engineer</title>
+      <link>http://localhost:1313/cv/skills/cybersecurity/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/skills/cybersecurity/</guid>
+      <description>&lt;p&gt;My CS Bachelor degree is about security. The skills I got and trained are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Security risks awareness: What is dangerous and why&lt;/li&gt;
+&lt;li&gt;Security mitigation: How to prevent/fix such risks&lt;/li&gt;
+&lt;li&gt;Software/Malware/Cryptographic Analysis. Tools: Ghidra, Volatility, gdb, pwntools&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Attacks
+&lt;ul&gt;
+&lt;li&gt;On algorithm weakness (e.g. mode of operation for ciphers)&lt;/li&gt;
+&lt;li&gt;On wireless network (e.g. sniffing, trame injections, &amp;hellip;). Tools: wireshark, scapy, nmap, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;High/Low level programming attacks (e.g. various kind of injections like SQL injection or XSS/CSRF, buffer overflows, weak OAuth flows, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Side channel and fault attacks&lt;/li&gt;
+&lt;li&gt;Various attacks using Metasploit and python scripting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Defenses
+&lt;ul&gt;
+&lt;li&gt;High/Low level programming (Good practices and algorithms, input sanitization, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Network: firewall, WAF, Snort&lt;/li&gt;
+&lt;li&gt;Cryptography: Symetric and Asymetric Signatures(Simple, multi-sig and threshold)/Encryption(operating modes, authenticated cipher)/hash(cryptographically safe vs unsafe), SSL/TLS, &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A complete audit of a company was also part of the formation.&lt;br&gt;
+It is worth mentioning that, even though the knowledge required are linked, we did more attacks than defenses.&lt;br&gt;
+Nb: We did learn a lot, but these skills need to be sharpened with the experience.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Languages</title>
+      <link>http://localhost:1313/cv/skills/languages/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/skills/languages/</guid>
+      <description>&lt;p&gt;I speak multiple languages fluently. The list below is set in order of mastery.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;French&lt;/strong&gt;: Mother tongue&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;English&lt;/strong&gt;: B2 Cambridge certified (~C1 estimated, not certified)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;German&lt;/strong&gt;: B1 certified (~B2 estimated, not certified).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I speak French with my family and friends.&lt;br&gt;
+Other than that, I only use English.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;(The following are not reliable professionally)&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Italian&lt;/strong&gt;: ~A2&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Portuguese&lt;/strong&gt;: Notions (A1 at most, able to understand easy speeches)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Japanese&lt;/strong&gt;: Notions (N5 at most, still learning)&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lead Software Engineer</title>
+      <link>http://localhost:1313/cv/skills/software-engineer/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/skills/software-engineer/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Good logic and understanding of various DSA and IT concepts&lt;/li&gt;
+&lt;li&gt;Knowledge of many design patterns and paradigms. I can easily compare many solutions.&lt;/li&gt;
+&lt;li&gt;Easily adapt to the language idiomatic ways of programming which makes better code (performance, readability and maintenance)&lt;/li&gt;
+&lt;li&gt;Ability to forecast and plan the implementation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The following chart shows my own programming language skill evaluation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/cv/skills/programming-languages/&#34;&gt;More information about the programming languages I use&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Odoo</title>
+      <link>http://localhost:1313/cv/carrer/odoo/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/carrer/odoo/</guid>
+      <description>&lt;h1 id=&#34;odoo&#34;&gt;&lt;a href=&#34;https://www.odoo.com/&#34;&gt;Odoo&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;I work on Odoo since 2018.
+Odoo is a new generation ERP, aka &amp;ldquo;Enterprise resource planning&amp;rdquo;.
+It positions itself as a contestant of the famous &lt;a href=&#34;https://www.sap.com&#34;&gt;SAP&lt;/a&gt;, leader in this field.&lt;/p&gt;
+&lt;p&gt;You will find my opinion on Odoo here&lt;/p&gt;
+&lt;h2 id=&#34;open-source&#34;&gt;Open Source&lt;/h2&gt;
+&lt;p&gt;Odoo community edition is &lt;strong&gt;Open Source&lt;/strong&gt;, this means anyone can read the code &lt;a href=&#34;https://github.com/odoo/odoo&#34;&gt;here&lt;/a&gt;.
+Nb: The code for the enterprise edition is also open source, but you need to have an enterprise license to gain access.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Net Sàrl</title>
+      <link>http://localhost:1313/cv/carrer/open-net/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/carrer/open-net/</guid>
+      <description>&lt;h1 id=&#34;open-net-sàrl&#34;&gt;&lt;a href=&#34;https://www.open-net.ch/&#34;&gt;Open Net Sàrl&lt;/a&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Worked on &lt;a href=&#34;https://www.odoo.com/&#34;&gt;Odoo&lt;/a&gt; ERP (&amp;ldquo;Enterprise resource planning&amp;rdquo;), a contestant of the famous &lt;a href=&#34;https://www.sap.com&#34;&gt;SAP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;From September 2018 to September 2023&lt;/li&gt;
+&lt;li&gt;Odoo gold partner (when I worked there): &lt;a href=&#34;https://www.odoo.com/fr_FR/partners/country/suisse-41&#34;&gt;1st partner in Switzerland&lt;/a&gt;, and &lt;a href=&#34;https://www.odoo.com/fr_FR/partners?&amp;amp;country_all=True&#34;&gt;7th partner worldwide&lt;/a&gt;. They dropped 2nd in Switzerland and 22nd worldwide 2 years after my departure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;roles-responsibilities-and-attributions&#34;&gt;Roles, responsibilities and attributions&lt;/h2&gt;
+&lt;p&gt;Through hard and consistant work, I quickly gained a lot of roles in this company.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead Sysadmin: Stabilize, document, standardize and improve the infrastructure.&lt;/li&gt;
+&lt;li&gt;Lead Developer: Evaluate and assign projects, Take over sensitive tasks, code reviews, candidate interview, new hired and apprentices onboarding.&lt;/li&gt;
+&lt;li&gt;Security Expert:&lt;/li&gt;
+&lt;li&gt;Project Manager:&lt;/li&gt;
+&lt;li&gt;Business Analyst (for some of our biggest customers)&lt;/li&gt;
+&lt;li&gt;Logistic ERP Expert (Stock, Manufacturing, Repair, PLM, &amp;hellip;  )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With all these roles to manage in parallel, I got better at scheduling my priorities and taking decisions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programming Languages</title>
+      <link>http://localhost:1313/cv/skills/programming-languages/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/skills/programming-languages/</guid>
+      <description>&lt;h1 id=&#34;timeline&#34;&gt;Timeline&lt;/h1&gt;
+
+&lt;pre class=&#34;mermaid&#34;&gt;
+  timeline
+    2016 : C++
+         : Bash
+    2018 : Python
+         : Javascript
+    2019 : Java
+    2020 : Go
+    2022 : Rust
+&lt;/pre&gt;
+&lt;h1 id=&#34;mastery&#34;&gt;Mastery&lt;/h1&gt;
+&lt;div&gt;
+    
+    
+    
+    
+    &lt;canvas id=&#39;01ecea100b41d6d6ca1902247fcc0e12&#39; width=&#39;&#39; height=&#39;&#39;&gt;&lt;/canvas&gt;
+    &lt;script&gt;
+        (function () {
+            var ctx = document.getElementById(&#39;01ecea100b41d6d6ca1902247fcc0e12&#39;);
+            var myChart = new Chart(ctx, {
+                type: &#34;bar&#34;,
+                data: {
+                    labels: [&#34;Python&#34;,&#34;Rust&#34;,&#34;Go&#34;,&#34;Javascript&#34;,&#34;C/C++&#34;,&#34;Bash&#34;,&#34;SQL&#34;,&#34;Java&#34;],
+                    datasets: [{
+                        label: null,
+                        data: [100,65,80,70,80,50,70,70],
+                        backgroundColor: [&#34;#FF638433&#34;,&#34;#36A2EB33&#34;,&#34;#FFCE5633&#34;,&#34;#4BC0C033&#34;,&#34;#9966FF33&#34;,&#34;#FF9F4033&#34;,&#34;#8FBC8F33&#34;,&#34;#00FFFF33&#34;,&#34;#A52A2A33&#34;,&#34;#FF00FF33&#34;,&#34;#87CEFA33&#34;],
+                        borderColor: [&#34;#FF6384FF&#34;,&#34;#36A2EBFF&#34;,&#34;#FFCE56FF&#34;,&#34;#4BC0C0FF&#34;,&#34;#9966FFFF&#34;,&#34;#FF9F40FF&#34;,&#34;#8FBC8FFF&#34;,&#34;#00FFFFFF&#34;,&#34;#A52A2AFF&#34;,&#34;#FF00FFFF&#34;,&#34;#87CEFAFF&#34;],
+                        borderWidth: 1
+                    }],
+                },
+                options: {
+                    plugins: {
+                        legend: { display: false }
+                    },
+                    scales: {
+                        yAxes: [{
+                            ticks: {
+                                beginAtZero: true,
+                            }
+                        }]
+                    }
+                }  
+            });
+        })();
+    &lt;/script&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Some more details below&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SysAdmin (linux)</title>
+      <link>http://localhost:1313/cv/skills/sysadmin/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/skills/sysadmin/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reverse Proxy&lt;/strong&gt;: Nginx, Traefik&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Containers/virtualization&lt;/strong&gt;: Docker, Podman, Kubernetes, OpenStack, Jelastic&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Management&lt;/strong&gt;: Ansible, Fabrik, Terraform (+ Terragrunt), Vagrant&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Network&lt;/strong&gt;: iptables, nftables, snort&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Monitoring&lt;/strong&gt;: Zabbix, Grafana Dashboard, fluentd&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Benchmark&lt;/strong&gt;: Apache Jmeter&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>

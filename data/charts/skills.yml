@@ -1,2 +1,2 @@
-labels: ['C/C++', 'Python', 'Javascript', 'Bash', 'SQL', 'Java', 'Rust', 'Go']
-data: [80, 95, 70, 50, 70, 70, 70, 70]
+labels: ['Python', 'Rust', 'Go', 'Javascript', 'C/C++', 'Bash', 'SQL', 'Java']
+data: [100, 65, 80, 70, 80, 50, 70, 70]

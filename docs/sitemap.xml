@@ -5,10 +5,34 @@
     <loc>http://localhost:1313/cv/introduction/</loc>
     <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/cv/carrer/carrer/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cv/certificats/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cv/skills/</loc>
+    <loc>http://localhost:1313/cv/skills/skills/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cv/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cv/carrer/kudelski/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cv/skills/cybersecurity/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cv/skills/languages/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cv/skills/software-engineer/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cv/carrer/odoo/</loc>
@@ -17,16 +41,10 @@
     <loc>http://localhost:1313/cv/carrer/open-net/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
-    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>http://localhost:1313/cv/skills/programming-languages/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cv/carrer/career/</loc>
+    <loc>http://localhost:1313/cv/skills/sysadmin/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

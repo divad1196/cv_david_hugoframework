@@ -1,0 +1,7 @@
+{{- $slug := .Get 0 -}}
+{{- $match := first 1 (where site.RegularPages "Slug" $slug) -}}
+{{- if gt (len $match) 0 -}}
+  {{ (index $match 0).RelPermalink }}
+{{- else -}}
+  {{ errorf "No page found with slug %q" $slug }}
+{{- end -}}

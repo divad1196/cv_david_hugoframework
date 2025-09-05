@@ -1,9 +1,10 @@
 ---
 title: "Open Net Sàrl"
+slug: "open-net"
 date: 2023-05-29
 # draft: true
-overview: true
-weight: 50
+# overview: true
+# weight: 50
 ---
 
 # [Open Net Sàrl](https://www.open-net.ch/)
