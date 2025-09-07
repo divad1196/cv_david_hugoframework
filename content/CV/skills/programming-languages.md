@@ -16,6 +16,7 @@ timeline
          : Bash
     2018 : Python
          : Javascript
+         : SQL
     2019 : Java
     2020 : Go
     2022 : Rust

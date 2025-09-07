@@ -13,15 +13,15 @@
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/cv/who-am-i/</guid>
-      <description>Beyond the engineer</description>
+      <description>The person behind the engineer</description>
     </item>
     
     <item>
       <title>Why choose me?</title>
-      <link>http://localhost:1313/cv/why-hire-me/</link>
+      <link>http://localhost:1313/cv/why-choose-me/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cv/why-hire-me/</guid>
+      <guid>http://localhost:1313/cv/why-choose-me/</guid>
       <description>The reasons why I am a good candidate</description>
     </item>
     
@@ -49,7 +49,7 @@
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/cv/skills/technologies/</guid>
-      <description>A non-exhaustive list of the technologies that I have used for a while</description>
+      <description>A non-exhaustive list of the technologies that I have used</description>
     </item>
     
     <item>
@@ -68,39 +68,6 @@
       
       <guid>http://localhost:1313/cv/certifications/</guid>
       <description>List of the certifications I have done</description>
-    </item>
-    
-    <item>
-      <title>Cybersecurity Engineer</title>
-      <link>http://localhost:1313/cv/skills/cybersecurity/</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/cv/skills/cybersecurity/</guid>
-      <description>&lt;p&gt;My CS Bachelor degree is about security. The skills I got and trained are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Security risks awareness: What is dangerous and why&lt;/li&gt;
-&lt;li&gt;Security mitigation: How to prevent/fix such risks&lt;/li&gt;
-&lt;li&gt;Software/Malware/Cryptographic Analysis. Tools: Ghidra, Volatility, gdb, pwntools&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Attacks
-&lt;ul&gt;
-&lt;li&gt;On algorithm weakness (e.g. mode of operation for ciphers)&lt;/li&gt;
-&lt;li&gt;On wireless network (e.g. sniffing, trame injections, &amp;hellip;). Tools: wireshark, scapy, nmap, &amp;hellip;&lt;/li&gt;
-&lt;li&gt;High/Low level programming attacks (e.g. various kind of injections like SQL injection or XSS/CSRF, buffer overflows, weak OAuth flows, &amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Side channel and fault attacks&lt;/li&gt;
-&lt;li&gt;Various attacks using Metasploit and python scripting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Defenses
-&lt;ul&gt;
-&lt;li&gt;High/Low level programming (Good practices and algorithms, input sanitization, &amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Network: firewall, WAF, Snort&lt;/li&gt;
-&lt;li&gt;Cryptography: Symetric and Asymetric Signatures(Simple, multi-sig and threshold)/Encryption(operating modes, authenticated cipher)/hash(cryptographically safe vs unsafe), SSL/TLS, &amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;A complete audit of a company was also part of the formation.&lt;br&gt;
-It is worth mentioning that, even though the knowledge required are linked, we did more attacks than defenses.&lt;br&gt;
-Nb: We did learn a lot, but these skills need to be sharpened with the experience.&lt;/p&gt;</description>
     </item>
     
     <item>

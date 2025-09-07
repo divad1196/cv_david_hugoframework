@@ -15,7 +15,9 @@ This pragmatism, combined with my strong technical skills, enabled me to advance
 
 I also take care to help and mentor my teammates in this same approach, ensuring they feel valued and respected.
 
+{{< clickable slug="programming-languages" >}}
 [More information about the programming languages I use]({{< slugref "programming-languages" >}})
+{{</ clickable >}}
 
 ## System Administrator (Linux)
 
@@ -24,7 +26,7 @@ By improving system stability and streamlining workflows, I ensured a more relia
 
 Being initially a developer and working on system administration, I naturally began developing the practices that I would later recognize as DevOps.
 
-## [Cybersecurity Engineer]({{< slugref "cybersecurity" >}})
+## Cybersecurity Engineer
 
 I have a degree in cybersecurity from the School of Engineering and Management (HEIG-VD) and apply this knowledge daily in both development and system administration, especially in the context of the web. This added depth to the way I conduct code reviews and audits.
 

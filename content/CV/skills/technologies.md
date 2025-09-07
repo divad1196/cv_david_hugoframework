@@ -1,7 +1,7 @@
 ---
 title: "Technologies & Tools"
 slug: "technologies"
-summary: A non-exhaustive list of the technologies that I have used for a while
+summary: A non-exhaustive list of the technologies that I have used
 date: 2025-09-05
 overview: true
 weight: 50
@@ -11,6 +11,18 @@ This file contains a list of technologies and tools I have actively used over th
 These are just keywords but they give you an idea.  
 
 NOTE: for some of these tools, my current knowledge might be a bit rusty or out-dated.
+
+{{< clickable slug="programming-languages" >}}
+## Programming Languages
+- Python
+- Rust
+- Go
+- Javascript
+- C/C++
+- Java
+- Bash
+- SQL
+{{</ clickable >}}
 
 ## Clouds
 - AWS

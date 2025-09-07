@@ -1,6 +1,6 @@
 ---
 title: "Who am I?"
-summary: Beyond the engineer
+summary: The person behind the engineer
 date: 2025-06-14
 # draft: true
 overview: true
@@ -47,6 +47,7 @@ While I might not make a huge display of sympathy, I am someone with a great emp
 
 Computer Science clicked for me relatively late. I was 21, studying Physics at the EPFL, when I discovered Linux and C++. It was a revelation.  
 I began spending most of my free time learning programming and finally decided to change my career.  
+
 This was the best decision I ever made.
 
 I taught myself through online courses and personal projects and then landed a programming internship where I quickly made a strong impression.
@@ -54,5 +55,5 @@ I gained responsibilities and got offered the opportunity to continue working at
 
 
 Computer Science in general, not just programming, has become for me a passion.
-> Choose a job you love, and you will never have to work a day in your life
+> Choose a job you love, and you will never have to work a day in your life  
 > — Confucius
