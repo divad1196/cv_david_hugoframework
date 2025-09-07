@@ -1,9 +1,10 @@
 ---
 title: Career
-slug: carrer
+slug: career
+summary: My career path
 overview: true
-weight: 10
-date: 2023-05-29
+weight: 30
+date: 2025-09-05
 # To allow callbacks: https://mermaid-js.github.io/mermaid/#/flowchart?id=interaction
 # mermaidSecurityLevel: "loose" 
 ---
@@ -45,9 +46,18 @@ Have a look at my [skills]({{< slugref "skills" >}}) -->
   * Odoo ERP: Business Analyst's skill 
   * Development: Web, Python, Postgresql, ...
   * Linux System Administration: Proxmox, LXC/LXD, Docker, ...
-  
 
 Open Net was the 1st Odoo integrator in Switzerland. I held multiple roles including Lead Developer, main Sysadmin and expert in Logistic & Manufacturing. I had at my charge of some of our largest  projects.
+
+## Roles & Responsibilities
+
+- **Lead Developer** – Evaluate and assign projects, take over sensitive tasks, perform code reviews, and onboard new hires and apprentices.  
+- **Main Sysadmin** – Stabilize, document, standardize, and improve the infrastructure. Conducted a succesful, cost effective, migration to the cloud. 
+- **Security Expert** – Audit internal tools, infrastructure, and products, identifying critical vulnerabilities and proposing solutions.  
+- **Project Manager** – Manage multiple internal and customer-facing projects, keeping them simple, within scope, on time, and on budget.  
+- **Business Analyst** – Interact directly with major customers to understand their needs and advise on using our tools effectively.  
+- **Logistic ERP Expert** – Provide expertise on stock, manufacturing, repair, PLM, and related processes.
+
 {{< /clickable >}}
 
 # [HEIG-VD](https://heig-vd.ch/en) — School of Engineering and Management

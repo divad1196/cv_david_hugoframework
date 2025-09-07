@@ -1,10 +1,11 @@
 ---
 title: "Programming Languages"
 slug: "programming-languages"
-date: 2023-05-29
+summary: Click here to see the programming language I know
+date: 2025-09-05
 # draft: true
-# overview: true
-# weight: 30
+overview: true
+weight: 60
 ---
 
 # Timeline
@@ -35,8 +36,9 @@ Some more details below
   * **ML/AI**: [CrewAI](https://www.crewai.com/) and [Ollama](https://ollama.com/) (Existing LLM consumption), [PyTorch](https://pytorch.org/) (Model fine-tuning)
   * **Data**: Pandas, numpy
   * **Interface**: Tkinter, pygame
+  * **Testing**: pytest
   * **Scripting/Scrapping**: lxml, json, requests/httpx, [Pillow](https://pillow.readthedocs.io/en/stable/) (image processing), [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/), ... 
-  * ...
+  * **Tools and Project Management**: [uv](https://docs.astral.sh/uv/), poetry, venv, [Ruff](https://docs.astral.sh/ruff/)
 
 ### 2. C/C++
 * Since 2016
@@ -64,24 +66,25 @@ Some more details below
 
   and the list keeps growing!
 
-### 4. Javascript (& Web)
+
+### 4. Go
+* Since 2020
+* Mostly did:
+  * Microservices (e.g. proxy to transform requests)
+  * Terraform provider
+
+### 5. Javascript (& Web)
 * Started to learn in 2018
 * Mostly frontends: Vuejs, ReactJS, AlpineJs, HTMX, Jquery, [OWL](https://github.com/odoo/owl), CSS/SCSS, bootstrap.  
   Nb: I don't have a graphical skill, meaning I am usually not the one creating the design.
 * Also did some projects on: algorithms implementations, rendering, scrapping (puppeteer), ML (Tensorflow for hand gesture recognition) and WebRTC/streaming
 
-### 5. Java
+### 6. Java
 * Since 2019
 * Mostly did:
   * Data structure and algorithms implementations
   * Web (Springboot)
   * Interface (Swing)
-
-### 6. Go
-* Since 2020
-* Mostly did:
-  * Microservices (e.g. proxy to transform requests)
-  * Terraform provider
 
 ### 7. Bash
 * Since 2016

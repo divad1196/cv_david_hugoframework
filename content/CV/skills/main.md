@@ -1,17 +1,12 @@
 ---
 title: "Skills"
 slug: skills
-date: 2023-05-29
+date: 2025-09-05
 # draft: true
+summary: Discover my main skills
 overview: true
-# tags: ["test"]
-weight: 20
+weight: 40
 ---
-
-
-
-
-
 
 ## Lead Software Engineer
 
@@ -22,7 +17,7 @@ I also take care to help and mentor my teammates in this same approach, ensuring
 
 [More information about the programming languages I use]({{< slugref "programming-languages" >}})
 
-## [System Administrator (Linux)]({{< slugref "sysadmin" >}})
+## System Administrator (Linux)
 
 Beyond development, I took responsibility for the administration systems, identifying and resolving many long-standing issues.
 By improving system stability and streamlining workflows, I ensured a more reliable infrastructure and drastically reduced the number of failures.

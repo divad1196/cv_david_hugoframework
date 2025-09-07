@@ -1,7 +1,7 @@
 ---
 title: Formations
 slug: formations
-date: 2023-05-29
+date: 2025-09-05
 ---
 
 

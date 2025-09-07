@@ -35,7 +35,7 @@ It has also been extended to manage parked domains, ensuring proper records, har
 
 ## Monitoring: Grafana-Prometheus Stack
 
-I took over the monitoring stack. It used Ansible and was in a broken state. The deployment pipelines were overly complex for no benefits, and many resources were unmanaged. Several certificates had expired and broke the monitoring.
+I took over the monitoring stack. It used Ansible and was in a broken state. The deployment pipelines were overly complex for no benefits, and many resources were unmanaged. Several expired certificates had broken the monitoring system.
 
 I fixed the deployments, simplified it and created a few **custom Ansible plugins** to streamline the dynamic retrieval of data from external sources in the playbooks. I also wrote a custom inventory plugin so that the inventory is dynamically maintained.
 

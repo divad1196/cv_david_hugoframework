@@ -1,17 +1,12 @@
 ---
 title: "Certifications"
 slug: "certifications"
-date: 2023-05-29
+summary: List of the certifications I have done
+date: 2025-09-05
 # draft: true
 overview: true
-# tags: ["test"]
-weight: 30
+weight: 70
 ---
-
-# Certificats
-
-This page contains the list of all my certificates.
-
 
 ## Cloud & Sysadmin
 

@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Engineer"
 slug: "cybersecurity"
-date: 2023-05-29
+date: 2025-09-05
 ---
 
 My CS Bachelor degree is about security. The skills I got and trained are:

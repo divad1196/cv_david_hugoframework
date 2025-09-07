@@ -193,7 +193,7 @@ Implementing AI internally without creating a new product would have introduced 
 <p>The inventory now enables security scans and monitoring, ensures a known point of contact for faster issue resolution, allows periodic review to remove unused domains, and serves as a reliable source for automations.</p>
 <p>It has also been extended to manage parked domains, ensuring proper records, hardening, and HTTP redirections, reducing workload for the CorpSec, Legal, and Marketing teams.</p>
 <h2 id="monitoring-grafana-prometheus-stack">Monitoring: Grafana-Prometheus Stack<a hidden class="anchor" aria-hidden="true" href="#monitoring-grafana-prometheus-stack">#</a></h2>
-<p>I took over the monitoring stack. It used Ansible and was in a broken state. The deployment pipelines were overly complex for no benefits, and many resources were unmanaged. Several certificates had expired and broke the monitoring.</p>
+<p>I took over the monitoring stack. It used Ansible and was in a broken state. The deployment pipelines were overly complex for no benefits, and many resources were unmanaged. Several expired certificates had broken the monitoring system.</p>
 <p>I fixed the deployments, simplified it and created a few <strong>custom Ansible plugins</strong> to streamline the dynamic retrieval of data from external sources in the playbooks. I also wrote a custom inventory plugin so that the inventory is dynamically maintained.</p>
 <p>Once the stack was stable, I explored simpler and more maintainable deployment solutions to reduce operational complexity and improve reliability.</p>
 <h2 id="netbox-inventory">NetBox Inventory<a hidden class="anchor" aria-hidden="true" href="#netbox-inventory">#</a></h2>
@@ -247,15 +247,10 @@ I enforced the use of the ACME protocol, presenting it to users as a self-provis
     <ul class="post-tags">
     </ul>
 <nav class="paginav">
-  <a class="prev" href="http://localhost:1313/cv/certifications/">
+  <a class="prev" href="http://localhost:1313/cv/carrer/open-net/">
     <span class="title">« Prev</span>
     <br>
-    <span>Certifications</span>
-  </a>
-  <a class="next" href="http://localhost:1313/cv/skills/cybersecurity/">
-    <span class="title">Next »</span>
-    <br>
-    <span>Cybersecurity Engineer</span>
+    <span>Open Net Sàrl</span>
   </a>
 </nav>
 
