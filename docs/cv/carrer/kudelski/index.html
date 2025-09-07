@@ -158,7 +158,7 @@ With the rise of AI, I was tasked with evaluating the complexity and benefits of
                 <li>
                     <a href="#monitoring-grafana-prometheus-stack" aria-label="Monitoring: Grafana-Prometheus Stack">Monitoring: Grafana-Prometheus Stack</a></li>
                 <li>
-                    <a href="#netbox-inventory" aria-label="Netbox Inventory">Netbox Inventory</a></li>
+                    <a href="#netbox-inventory" aria-label="NetBox Inventory">NetBox Inventory</a></li>
                 <li>
                     <a href="#cloudflare" aria-label="Cloudflare">Cloudflare</a></li>
                 <li>
@@ -193,10 +193,15 @@ Implementing AI internally without creating a new product would have introduced 
 <p>The inventory now enables security scans and monitoring, ensures a known point of contact for faster issue resolution, allows periodic review to remove unused domains, and serves as a reliable source for automations.</p>
 <p>It has also been extended to manage parked domains, ensuring proper records, hardening, and HTTP redirections, reducing workload for the CorpSec, Legal, and Marketing teams.</p>
 <h2 id="monitoring-grafana-prometheus-stack">Monitoring: Grafana-Prometheus Stack<a hidden class="anchor" aria-hidden="true" href="#monitoring-grafana-prometheus-stack">#</a></h2>
-<h2 id="netbox-inventory">Netbox Inventory<a hidden class="anchor" aria-hidden="true" href="#netbox-inventory">#</a></h2>
+<p>I took over the monitoring stack. It used Ansible and was in a broken state. The deployment pipelines were overly complex for no benefits, and many resources were unmanaged. Several certificates had expired and broke the monitoring.</p>
+<p>I fixed the deployments, simplified it and created a few <strong>custom Ansible plugins</strong> to streamline the dynamic retrieval of data from external sources in the playbooks. I also wrote a custom inventory plugin so that the inventory is dynamically maintained.</p>
+<p>Once the stack was stable, I explored simpler and more maintainable deployment solutions to reduce operational complexity and improve reliability.</p>
+<h2 id="netbox-inventory">NetBox Inventory<a hidden class="anchor" aria-hidden="true" href="#netbox-inventory">#</a></h2>
+<p>NetBox is our main source of truth for network inventory. Its deployment was done on an old EC2 instance and the maintenance was done partially with Ansible but also a lot manually. I completely rewrote the deployment to run on <strong>ECS using Fargate</strong>, making it fully automated and easy to maintain/update. I developed multiple scripts to ingest data from existing network equipment, clean up inconsistancies.</p>
+<p>The NetBox instance now serves as the authoritative inventory for other services, including monitoring, auditing and reporting.</p>
 <h2 id="cloudflare">Cloudflare<a hidden class="anchor" aria-hidden="true" href="#cloudflare">#</a></h2>
-<p>&hellip;
-Our team also acted as a broker between Cloudflare and other teams.</p>
+<p>We managed multiple domains on behalf of the corporate business.<br>
+Our team acts as a service broker for other teams, and I also provide support and consulting to these teams.</p>
 <h2 id="denodo-data-agregation-platform"><a href="https://www.denodo.com/en">Denodo</a> (Data Agregation Platform)<a hidden class="anchor" aria-hidden="true" href="#denodo-data-agregation-platform">#</a></h2>
 <ul>
 <li>Created, fixed, and simplified various views, using techniques like xpath to streamline complex queries.</li>

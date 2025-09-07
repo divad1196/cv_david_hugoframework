@@ -33,16 +33,25 @@ The inventory now enables security scans and monitoring, ensures a known point o
 
 It has also been extended to manage parked domains, ensuring proper records, hardening, and HTTP redirections, reducing workload for the CorpSec, Legal, and Marketing teams.
 
-
 ## Monitoring: Grafana-Prometheus Stack
 
-## Netbox Inventory
+I took over the monitoring stack. It used Ansible and was in a broken state. The deployment pipelines were overly complex for no benefits, and many resources were unmanaged. Several certificates had expired and broke the monitoring.
 
+I fixed the deployments, simplified it and created a few **custom Ansible plugins** to streamline the dynamic retrieval of data from external sources in the playbooks. I also wrote a custom inventory plugin so that the inventory is dynamically maintained.
+
+Once the stack was stable, I explored simpler and more maintainable deployment solutions to reduce operational complexity and improve reliability.
+
+## NetBox Inventory
+
+NetBox is our main source of truth for network inventory. Its deployment was done on an old EC2 instance and the maintenance was done partially with Ansible but also a lot manually. I completely rewrote the deployment to run on **ECS using Fargate**, making it fully automated and easy to maintain/update. I developed multiple scripts to ingest data from existing network equipment, clean up inconsistancies.
+
+The NetBox instance now serves as the authoritative inventory for other services, including monitoring, auditing and reporting.
 
 ## Cloudflare
 
-...
-Our team also acted as a broker between Cloudflare and other teams.  
+We managed multiple domains on behalf of the corporate business.  
+Our team acts as a service broker for other teams, and I also provide support and consulting to these teams.
+
 
 ## [Denodo](https://www.denodo.com/en) (Data Agregation Platform)
 
