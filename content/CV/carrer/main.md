@@ -11,6 +11,7 @@ date: 2023-05-29
 Here is a summary of my noticeable experiences.  
 
 
+{{< clickable slug="kudelski" >}}
 # [Kudelski Group](https://www.nagra.com/): DevOps Engineer
 * Cheseaux-sur-Lausanne, 1033 (VD)
 * 2023 - Today
@@ -29,6 +30,8 @@ Here is a summary of my noticeable experiences.
 
 I joined the corporate IT team as the DevOps expert, simplifying and improving legacy services and adding new ones following state-of-the-art practices.
 My management skills led me to take on projects beyond my role.
+{{< /clickable >}}
+
 
 
 <!-- # Current Skills

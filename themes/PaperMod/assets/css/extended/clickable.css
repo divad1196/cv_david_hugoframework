@@ -1,0 +1,31 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+
+.clickable {
+  position: relative;
+  border-radius: 12px;
+  outline: 2px solid transparent; /* real outline */
+  outline-offset: 0;               /* start at the edge */
+  cursor: pointer;
+}
+
+.clickable::after {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  border-radius: 12px;
+  border: 2px solid var(--hover-border-color, currentColor);
+  transform: scale(1);
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  pointer-events: none;
+  z-index: -1;
+  opacity: 0;
+}
+
+.clickable:hover::after {
+  opacity: 1;
+  transform: scale(1.05); /* makes border move outward */
+}

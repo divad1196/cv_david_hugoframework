@@ -9,17 +9,17 @@ weight: 10
 
 # Who am I ?
 
-I am a curious and eager learner that always had a big interest on science and logic.  
-Despite that, I discovered Computer Science late at the age of 21 while I was studying Physics at the EPFL. I changed my field and this was the best decision I ever made.  
+I am a curious and eager learner with a deep interest in science and logic.
+Although I discovered Computer Science relatively late, at the age of 21 while studying Physics at EPFL, I quickly realized it was the right path for me — and switching fields was the best decision I ever made.
 
-I made a Cybersecurity Engineering degree.  
-While I currently never had a job solely focus on this field, Cybersecurity has always been part of my work.
+I hold a degree in Cybersecurity Engineering. Cybersecurity has always been an integral part of my work.
 
-Through my career, I have had multiple roles:
-- Lead Developer (embracing DevSecOps mentality!)
+Throughout my career, I have taken on multiple roles:
+
+- Lead Developer (with a strong DevSecOps mindset)
 - Lead Sysadmin
 - Cloud Engineer
 - Project Manager
 - ERP Expert
 
-I was able to reach these positions by learning, practicing and mastering the required skills for each of them.  
+I reached these positions by continuously learning, practicing, and mastering the skills required for each of them.

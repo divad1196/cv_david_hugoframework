@@ -1,5 +1,6 @@
 ---
 title: "Nagra — Kudelski Group"
+slug: kudelski
 date: 2025-06-14
 # draft: true
 # overview: true

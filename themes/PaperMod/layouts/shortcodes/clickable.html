@@ -21,6 +21,6 @@
   {{ end }}
 {{ end }}
 
-<div onclick="location.href='{{ $url | safeURL }}';" class="{{ $class }}" style="cursor: pointer;">
+<div onclick="location.href='{{ $url | safeURL }}';" class="clickable {{ $class }}">
 {{ .Inner | markdownify }}
 </div>
